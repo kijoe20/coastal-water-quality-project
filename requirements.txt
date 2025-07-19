@@ -1,0 +1,30 @@
+# Core data analysis and manipulation
+pandas>=2.0.0
+numpy>=1.22.0
+
+# Scientific computing and statistics
+scipy>=1.8.0
+statsmodels>=0.14.0
+
+# Geospatial data handling
+geopandas>=1.0.0
+
+# Visualization
+matplotlib>=3.10.0
+cartopy>=0.24.0
+
+# Meteorological and oceanographic data
+siphon>=0.10.0
+netCDF4>=1.7.0
+
+# Additional dependencies that may be needed
+requests>=2.30.0
+beautifulsoup4>=4.9.1
+protobuf>=3.20.0
+cftime>=1.6.0
+certifi>=2025.0.0
+python-dateutil>=2.8.2
+pytz>=2020.1
+tzdata>=2022.7
+patsy>=0.5.6
+packaging>=21.3 
