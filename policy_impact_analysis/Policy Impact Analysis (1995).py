@@ -5,7 +5,7 @@ from datetime import datetime
 def load_and_clean_data():
     """Load and clean the water quality data"""
     # Load the water quality data
-    df_wq = pd.read_csv('EPD_data/2_marine_water_quality.csv')
+    df_wq = pd.read_csv('../EPD_data/1_marine_water_quality.csv')
     
     # Convert Dates column to datetime
     df_wq['Dates'] = pd.to_datetime(df_wq['Dates'], errors='coerce')
