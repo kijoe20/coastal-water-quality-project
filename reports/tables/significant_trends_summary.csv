@@ -1,0 +1,33 @@
+Zone,Parameter,P_value,Sen_Slope,Trend,Significance
+1,Salinity (psu),0.0,0.0003473945409429277,Increasing,Highly Significant
+2,Total Nitrogen (mg/L),1.9424147442714812e-05,7.601672367920949e-06,Increasing,Highly Significant
+2,Ammonia Nitrogen (mg/L),7.298859294735394e-09,1.3796909492273743e-06,Increasing,Highly Significant
+2,Orthophosphate Phosphorus (mg/L),0.0004622562058105295,0.0,Decreasing,Highly Significant
+2,Total Inorganic Nitrogen (mg/L),5.722755602732832e-12,6.858710562414268e-06,Increasing,Highly Significant
+2,E. coli (cfu/100mL),0.0,0.0005473453749315818,Increasing,Highly Significant
+3,Total Inorganic Nitrogen (mg/L),0.034915127630496645,0.0,Decreasing,Significant
+5,Dissolved Oxygen (%saturation),0.0,0.01383399209486166,Increasing,Highly Significant
+5,Dissolved Oxygen (mg/L),0.0,0.0009298393913778533,Increasing,Highly Significant
+5,pH,0.0,0.00020283975659229138,Increasing,Highly Significant
+5,Salinity (psu),0.0,0.003806228373702421,Increasing,Highly Significant
+7,Suspended Solids (mg/L),2.220446049250313e-16,0.0008674101610904587,Increasing,Highly Significant
+7,Total Nitrogen (mg/L),1.8408241300171824e-06,6.535947712418307e-05,Increasing,Highly Significant
+7,Total Inorganic Nitrogen (mg/L),1.2324927745055447e-09,6.646971935007383e-05,Increasing,Highly Significant
+7,Chlorophyll-a (μg/L),4.846834515515042e-06,0.00023291925465838512,Increasing,Highly Significant
+7,Dissolved Oxygen (%saturation),0.01994847520003651,0.0010035122930255895,Increasing,Significant
+7,Dissolved Oxygen (mg/L),0.041650230076836436,6.60501981505948e-05,Increasing,Significant
+7,Turbidity (NTU),0.0017517748035504876,0.00043243243243243183,Increasing,Highly Significant
+7,Temperature (°C),0.000778259727280517,0.00040106951871657847,Increasing,Highly Significant
+8,Suspended Solids (mg/L),4.4797765497150976e-10,0.0006065200909780135,Increasing,Highly Significant
+8,Total Nitrogen (mg/L),1.0571355010258188e-05,4.2918454935622355e-05,Increasing,Highly Significant
+8,Ammonia Nitrogen (mg/L),3.225339830770224e-07,1.185495118549512e-05,Increasing,Highly Significant
+8,Total Inorganic Nitrogen (mg/L),0.0,5.357142857142857e-05,Increasing,Highly Significant
+8,E. coli (cfu/100mL),3.874234266731946e-12,0.04929577464788732,Increasing,Highly Significant
+9,Dissolved Oxygen (%saturation),1.3840040224977201e-12,0.006572769953051643,Increasing,Highly Significant
+9,Dissolved Oxygen (mg/L),1.1571819227285118e-06,0.00036363636363636237,Increasing,Highly Significant
+9,Temperature (°C),0.003553659480024507,0.0006144393241167467,Increasing,Highly Significant
+10,Total Nitrogen (mg/L),2.7367774877440354e-06,1.0060362173038239e-05,Increasing,Highly Significant
+10,Ammonia Nitrogen (mg/L),7.030237281213658e-09,5.183847043503527e-06,Increasing,Highly Significant
+10,Total Inorganic Nitrogen (mg/L),3.6211034171174106e-12,8.97666068222622e-06,Increasing,Highly Significant
+10,E. coli (cfu/100mL),0.04550538443030061,0.016135538523598225,Increasing,Significant
+10,Temperature (°C),5.7524285727694746e-05,0.00011114198388441243,Increasing,Highly Significant

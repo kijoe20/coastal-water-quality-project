@@ -1,0 +1,39 @@
+Zone,Parameter1,Parameter2,Correlation,Abs_Correlation,Strength
+1,Ammonia Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.8692146501433318,0.8692146501433318,Very Strong
+1,Dissolved Oxygen (%saturation),Dissolved Oxygen (mg/L),0.9462729126786671,0.9462729126786671,Very Strong
+2,Total Inorganic Nitrogen (mg/L),Salinity (psu),-0.7498620585277834,0.7498620585277834,Strong
+2,Dissolved Oxygen (%saturation),Dissolved Oxygen (mg/L),0.9270507246815681,0.9270507246815681,Very Strong
+3,Ammonia Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.71222375518525,0.71222375518525,Strong
+3,Dissolved Oxygen (%saturation),Dissolved Oxygen (mg/L),0.8796065897595058,0.8796065897595058,Very Strong
+4,Ammonia Nitrogen (mg/L),Orthophosphate Phosphorus (mg/L),0.7410252532174324,0.7410252532174324,Strong
+4,Ammonia Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.7447413585173078,0.7447413585173078,Strong
+4,Dissolved Oxygen (%saturation),Dissolved Oxygen (mg/L),0.9304352592466892,0.9304352592466892,Very Strong
+5,Total Phosphorus (mg/L),Total Nitrogen (mg/L),0.8032494270614213,0.8032494270614213,Very Strong
+5,Total Phosphorus (mg/L),Ammonia Nitrogen (mg/L),0.7972919625520413,0.7972919625520413,Strong
+5,Total Phosphorus (mg/L),Orthophosphate Phosphorus (mg/L),0.9295444544837571,0.9295444544837571,Very Strong
+5,Total Phosphorus (mg/L),Total Inorganic Nitrogen (mg/L),0.7848045926154693,0.7848045926154693,Strong
+5,Total Nitrogen (mg/L),Ammonia Nitrogen (mg/L),0.9429436093599881,0.9429436093599881,Very Strong
+5,Total Nitrogen (mg/L),Orthophosphate Phosphorus (mg/L),0.8147437725465586,0.8147437725465586,Very Strong
+5,Total Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.9750541293057058,0.9750541293057058,Very Strong
+5,Ammonia Nitrogen (mg/L),Orthophosphate Phosphorus (mg/L),0.8308446309929366,0.8308446309929366,Very Strong
+5,Ammonia Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.9555126989742425,0.9555126989742425,Very Strong
+5,Orthophosphate Phosphorus (mg/L),Total Inorganic Nitrogen (mg/L),0.813566429641917,0.813566429641917,Very Strong
+5,Dissolved Oxygen (%saturation),Dissolved Oxygen (mg/L),0.967614203637205,0.967614203637205,Very Strong
+6,5-day Biochemical Oxygen Demand (mg/L),Chlorophyll-a (μg/L),0.7538711345637933,0.7538711345637933,Strong
+6,Ammonia Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.7541646261337684,0.7541646261337684,Strong
+6,Dissolved Oxygen (%saturation),Dissolved Oxygen (mg/L),0.8977390923413416,0.8977390923413416,Very Strong
+7,Total Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.8938066468848673,0.8938066468848673,Very Strong
+7,Total Nitrogen (mg/L),Salinity (psu),-0.7780919798657205,0.7780919798657205,Strong
+7,Total Inorganic Nitrogen (mg/L),Salinity (psu),-0.8497573726538019,0.8497573726538019,Very Strong
+7,Dissolved Oxygen (%saturation),Dissolved Oxygen (mg/L),0.9452930695102196,0.9452930695102196,Very Strong
+8,Dissolved Oxygen (%saturation),Dissolved Oxygen (mg/L),0.9265713473434266,0.9265713473434266,Very Strong
+9,Ammonia Nitrogen (mg/L),Orthophosphate Phosphorus (mg/L),0.818586029592266,0.818586029592266,Very Strong
+9,Ammonia Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.7189736226308558,0.7189736226308558,Strong
+9,Dissolved Oxygen (%saturation),Dissolved Oxygen (mg/L),0.924173246827364,0.924173246827364,Very Strong
+10,Total Phosphorus (mg/L),Orthophosphate Phosphorus (mg/L),0.852252410724205,0.852252410724205,Very Strong
+10,Total Phosphorus (mg/L),Total Inorganic Nitrogen (mg/L),0.7208256784386446,0.7208256784386446,Strong
+10,Total Nitrogen (mg/L),Orthophosphate Phosphorus (mg/L),0.7393263164315137,0.7393263164315137,Strong
+10,Total Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.8491268067047147,0.8491268067047147,Very Strong
+10,Ammonia Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.719754414251675,0.719754414251675,Strong
+10,Orthophosphate Phosphorus (mg/L),Total Inorganic Nitrogen (mg/L),0.8207228076561544,0.8207228076561544,Very Strong
+10,Dissolved Oxygen (%saturation),Dissolved Oxygen (mg/L),0.9476164093813233,0.9476164093813233,Very Strong
