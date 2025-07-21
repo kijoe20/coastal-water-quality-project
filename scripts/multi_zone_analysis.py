@@ -308,7 +308,20 @@ class MultiZoneAnalyzer:
             print(f"Zone {zone_num}: No parameters available for time series plot.")
             return
 
-        monthly_averages = df[available_params].resample('ME').mean()
+        # Filter for surface water data only for consistency with other analyses
+        surface_data = df[df['Depth'] == 'Surface Water'] if 'Depth' in df.columns else df
+        
+        if len(surface_data) == 0:
+            print(f"Zone {zone_num}: No surface water data available for time series plot.")
+            return
+
+        # Calculate monthly averages
+        monthly_averages = surface_data[available_params].resample('ME').mean()
+        
+        # Check if we have sufficient data for meaningful analysis
+        if len(monthly_averages) < 3:
+            print(f"Zone {zone_num}: Insufficient monthly data points ({len(monthly_averages)}) for time series plot.")
+            return
         
         # Rolling window parameter for trend visualization
         ROLLING_WINDOW = 6  # 6-month rolling mean for better trend visualization
@@ -324,22 +337,43 @@ class MultiZoneAnalyzer:
         axes = axes.flatten()
 
         for i, param in enumerate(available_params):
+            # Skip parameters with insufficient data
+            param_data = monthly_averages[param].dropna()
+            if len(param_data) < 3:
+                axes[i].text(0.5, 0.5, f'Insufficient data\nfor {param}', 
+                           ha='center', va='center', transform=axes[i].transAxes,
+                           fontsize=10, bbox=dict(boxstyle="round,pad=0.3", facecolor="lightgray"))
+                axes[i].set_title(param, fontsize=10)
+                continue
+            
             # Plot original monthly averages
             monthly_averages[param].plot(ax=axes[i], label='Monthly Average', 
                                        alpha=0.7, linewidth=1)
             
-            # Calculate and plot rolling mean
-            rolling_mean = monthly_averages[param].rolling(window=ROLLING_WINDOW, 
-                                                         min_periods=1, center=True).mean()
-            axes[i].plot(monthly_averages.index, rolling_mean, 
-                        label=f'{ROLLING_WINDOW}-Month Rolling Mean', 
-                        color='red', linewidth=2)
+            # Calculate rolling mean with proper error handling
+            try:
+                rolling_mean = monthly_averages[param].rolling(window=ROLLING_WINDOW, 
+                                                             min_periods=1, center=True).mean()
+                
+                # Only plot rolling mean if we have valid data
+                valid_rolling = rolling_mean.dropna()
+                if len(valid_rolling) > 0:
+                    rolling_mean.plot(ax=axes[i], 
+                                    label=f'{ROLLING_WINDOW}-Month Rolling Mean', 
+                                    color='red', linewidth=2)
+                else:
+                    print(f"Zone {zone_num}, {param}: Rolling mean calculation resulted in no valid data.")
+                    
+            except (ValueError, TypeError) as e:
+                print(f"Zone {zone_num}, {param}: Error calculating rolling mean - {e}")
+                # Continue without rolling mean for this parameter
             
             axes[i].set_title(param, fontsize=10)
             axes[i].set_xlabel('Date')
             axes[i].set_ylabel('Monthly Average')
             axes[i].tick_params(axis='x', rotation=45)
             axes[i].legend(fontsize=8)
+            axes[i].grid(True, alpha=0.3)
 
         # Hide unused subplots
         for j in range(i + 1, len(axes)):
