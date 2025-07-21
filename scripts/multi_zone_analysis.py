@@ -364,7 +364,7 @@ class MultiZoneAnalyzer:
                 else:
                     print(f"Zone {zone_num}, {param}: Rolling mean calculation resulted in no valid data.")
                     
-            except Exception as e:
+            except (ValueError, TypeError) as e:
                 print(f"Zone {zone_num}, {param}: Error calculating rolling mean - {e}")
                 # Continue without rolling mean for this parameter
             
