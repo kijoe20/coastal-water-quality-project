@@ -18,7 +18,7 @@ scripts_dir = Path(__file__).parent / "scripts"
 sys.path.insert(0, str(scripts_dir))
 
 try:
-    from multi_zone_analysis import MultiZoneWaterQualityAnalyzer
+    from multi_zone_analysis import MultiZoneAnalyzer
     print("Multi-Zone Water Quality Analysis")
     print("=" * 50)
     print("This script will analyze all 10 water quality zones and generate:")
@@ -29,8 +29,8 @@ try:
     print("=" * 50)
     
     # Run the analysis
-    analyzer = MultiZoneWaterQualityAnalyzer()
-    analyzer.run_analysis()
+    analyzer = MultiZoneAnalyzer()
+    analyzer.run_complete_analysis()
     
     print("\nAnalysis completed successfully!")
     print(f"Results saved in: {analyzer.output_dir}")
