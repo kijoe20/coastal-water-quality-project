@@ -1,0 +1,1051 @@
+Zone,Parameter1,Parameter2,Correlation,Abs_Correlation,Strength
+1,5-day Biochemical Oxygen Demand (mg/L),Suspended Solids (mg/L),0.20862134855532058,0.20862134855532058,Weak
+1,5-day Biochemical Oxygen Demand (mg/L),Total Phosphorus (mg/L),0.3563542497545069,0.3563542497545069,Weak
+1,5-day Biochemical Oxygen Demand (mg/L),Total Nitrogen (mg/L),0.40385571671562576,0.40385571671562576,Moderate
+1,5-day Biochemical Oxygen Demand (mg/L),Ammonia Nitrogen (mg/L),0.11220033917809437,0.11220033917809437,Very Weak
+1,5-day Biochemical Oxygen Demand (mg/L),Orthophosphate Phosphorus (mg/L),0.1334291504082995,0.1334291504082995,Very Weak
+1,5-day Biochemical Oxygen Demand (mg/L),Total Inorganic Nitrogen (mg/L),0.04832402876561397,0.04832402876561397,Very Weak
+1,5-day Biochemical Oxygen Demand (mg/L),Chlorophyll-a (μg/L),0.6527737998926594,0.6527737998926594,Strong
+1,5-day Biochemical Oxygen Demand (mg/L),Dissolved Oxygen (%saturation),0.49865445417294957,0.49865445417294957,Moderate
+1,5-day Biochemical Oxygen Demand (mg/L),Dissolved Oxygen (mg/L),0.5069603421792466,0.5069603421792466,Moderate
+1,5-day Biochemical Oxygen Demand (mg/L),E. coli (cfu/100mL),-0.004229975250496952,0.004229975250496952,Very Weak
+1,5-day Biochemical Oxygen Demand (mg/L),Turbidity (NTU),-0.0157360020931018,0.0157360020931018,Very Weak
+1,5-day Biochemical Oxygen Demand (mg/L),pH,0.3979630787231645,0.3979630787231645,Weak
+1,5-day Biochemical Oxygen Demand (mg/L),Temperature (°C),-0.03568969711055802,0.03568969711055802,Very Weak
+1,5-day Biochemical Oxygen Demand (mg/L),Salinity (psu),-0.05722141375781841,0.05722141375781841,Very Weak
+1,Suspended Solids (mg/L),Total Phosphorus (mg/L),0.2715452151873885,0.2715452151873885,Weak
+1,Suspended Solids (mg/L),Total Nitrogen (mg/L),0.3613238623962999,0.3613238623962999,Weak
+1,Suspended Solids (mg/L),Ammonia Nitrogen (mg/L),0.17376021203909045,0.17376021203909045,Very Weak
+1,Suspended Solids (mg/L),Orthophosphate Phosphorus (mg/L),0.05416687207223961,0.05416687207223961,Very Weak
+1,Suspended Solids (mg/L),Total Inorganic Nitrogen (mg/L),0.13904350084146153,0.13904350084146153,Very Weak
+1,Suspended Solids (mg/L),Chlorophyll-a (μg/L),0.23156828871771143,0.23156828871771143,Weak
+1,Suspended Solids (mg/L),Dissolved Oxygen (%saturation),0.07617166057023181,0.07617166057023181,Very Weak
+1,Suspended Solids (mg/L),Dissolved Oxygen (mg/L),0.09235663777889015,0.09235663777889015,Very Weak
+1,Suspended Solids (mg/L),E. coli (cfu/100mL),0.0646813712805413,0.0646813712805413,Very Weak
+1,Suspended Solids (mg/L),Turbidity (NTU),0.11780063307302485,0.11780063307302485,Very Weak
+1,Suspended Solids (mg/L),pH,-0.021493495382670973,0.021493495382670973,Very Weak
+1,Suspended Solids (mg/L),Temperature (°C),-0.04560973569652225,0.04560973569652225,Very Weak
+1,Suspended Solids (mg/L),Salinity (psu),-0.06869319573303563,0.06869319573303563,Very Weak
+1,Total Phosphorus (mg/L),Total Nitrogen (mg/L),0.6211227522270295,0.6211227522270295,Strong
+1,Total Phosphorus (mg/L),Ammonia Nitrogen (mg/L),0.45510012983773546,0.45510012983773546,Moderate
+1,Total Phosphorus (mg/L),Orthophosphate Phosphorus (mg/L),0.5048826287854083,0.5048826287854083,Moderate
+1,Total Phosphorus (mg/L),Total Inorganic Nitrogen (mg/L),0.43445269280222304,0.43445269280222304,Moderate
+1,Total Phosphorus (mg/L),Chlorophyll-a (μg/L),0.3329168548588194,0.3329168548588194,Weak
+1,Total Phosphorus (mg/L),Dissolved Oxygen (%saturation),0.13617311512756916,0.13617311512756916,Very Weak
+1,Total Phosphorus (mg/L),Dissolved Oxygen (mg/L),0.18953340890043313,0.18953340890043313,Very Weak
+1,Total Phosphorus (mg/L),E. coli (cfu/100mL),0.053046896708622476,0.053046896708622476,Very Weak
+1,Total Phosphorus (mg/L),Turbidity (NTU),0.008697303109896679,0.008697303109896679,Very Weak
+1,Total Phosphorus (mg/L),pH,0.08183046055587258,0.08183046055587258,Very Weak
+1,Total Phosphorus (mg/L),Temperature (°C),-0.16053623195439132,0.16053623195439132,Very Weak
+1,Total Phosphorus (mg/L),Salinity (psu),0.03197939852645723,0.03197939852645723,Very Weak
+1,Total Nitrogen (mg/L),Ammonia Nitrogen (mg/L),0.5411583189955249,0.5411583189955249,Moderate
+1,Total Nitrogen (mg/L),Orthophosphate Phosphorus (mg/L),0.3374626115486079,0.3374626115486079,Weak
+1,Total Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.5210647710217715,0.5210647710217715,Moderate
+1,Total Nitrogen (mg/L),Chlorophyll-a (μg/L),0.39434585782825926,0.39434585782825926,Weak
+1,Total Nitrogen (mg/L),Dissolved Oxygen (%saturation),0.13400863428121085,0.13400863428121085,Very Weak
+1,Total Nitrogen (mg/L),Dissolved Oxygen (mg/L),0.1958592357459883,0.1958592357459883,Very Weak
+1,Total Nitrogen (mg/L),E. coli (cfu/100mL),0.07022184743879403,0.07022184743879403,Very Weak
+1,Total Nitrogen (mg/L),Turbidity (NTU),0.03726546293902725,0.03726546293902725,Very Weak
+1,Total Nitrogen (mg/L),pH,0.025758242697157766,0.025758242697157766,Very Weak
+1,Total Nitrogen (mg/L),Temperature (°C),-0.16460732481783505,0.16460732481783505,Very Weak
+1,Total Nitrogen (mg/L),Salinity (psu),-0.07023953440824253,0.07023953440824253,Very Weak
+1,Ammonia Nitrogen (mg/L),Orthophosphate Phosphorus (mg/L),0.535012380770358,0.535012380770358,Moderate
+1,Ammonia Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.8692146501433318,0.8692146501433318,Very Strong
+1,Ammonia Nitrogen (mg/L),Chlorophyll-a (μg/L),0.07780548967204973,0.07780548967204973,Very Weak
+1,Ammonia Nitrogen (mg/L),Dissolved Oxygen (%saturation),-0.10592373559831028,0.10592373559831028,Very Weak
+1,Ammonia Nitrogen (mg/L),Dissolved Oxygen (mg/L),-0.021438259147523196,0.021438259147523196,Very Weak
+1,Ammonia Nitrogen (mg/L),E. coli (cfu/100mL),0.10736286578889795,0.10736286578889795,Very Weak
+1,Ammonia Nitrogen (mg/L),Turbidity (NTU),0.015027914179784808,0.015027914179784808,Very Weak
+1,Ammonia Nitrogen (mg/L),pH,-0.1421890274200794,0.1421890274200794,Very Weak
+1,Ammonia Nitrogen (mg/L),Temperature (°C),-0.251515640864389,0.251515640864389,Weak
+1,Ammonia Nitrogen (mg/L),Salinity (psu),-0.021914600767016755,0.021914600767016755,Very Weak
+1,Orthophosphate Phosphorus (mg/L),Total Inorganic Nitrogen (mg/L),0.6366079796324868,0.6366079796324868,Strong
+1,Orthophosphate Phosphorus (mg/L),Chlorophyll-a (μg/L),0.05609191959274296,0.05609191959274296,Very Weak
+1,Orthophosphate Phosphorus (mg/L),Dissolved Oxygen (%saturation),-0.052346593612207136,0.052346593612207136,Very Weak
+1,Orthophosphate Phosphorus (mg/L),Dissolved Oxygen (mg/L),0.02125521555938638,0.02125521555938638,Very Weak
+1,Orthophosphate Phosphorus (mg/L),E. coli (cfu/100mL),0.09892507879400995,0.09892507879400995,Very Weak
+1,Orthophosphate Phosphorus (mg/L),Turbidity (NTU),-0.017416549836671697,0.017416549836671697,Very Weak
+1,Orthophosphate Phosphorus (mg/L),pH,-0.01035913194997482,0.01035913194997482,Very Weak
+1,Orthophosphate Phosphorus (mg/L),Temperature (°C),-0.219811390891047,0.219811390891047,Weak
+1,Orthophosphate Phosphorus (mg/L),Salinity (psu),0.006100549423332295,0.006100549423332295,Very Weak
+1,Total Inorganic Nitrogen (mg/L),Chlorophyll-a (μg/L),0.06155151170887124,0.06155151170887124,Very Weak
+1,Total Inorganic Nitrogen (mg/L),Dissolved Oxygen (%saturation),-0.17768573542476107,0.17768573542476107,Very Weak
+1,Total Inorganic Nitrogen (mg/L),Dissolved Oxygen (mg/L),-0.08093364068937528,0.08093364068937528,Very Weak
+1,Total Inorganic Nitrogen (mg/L),E. coli (cfu/100mL),0.1635510070069849,0.1635510070069849,Very Weak
+1,Total Inorganic Nitrogen (mg/L),Turbidity (NTU),0.05766589483517407,0.05766589483517407,Very Weak
+1,Total Inorganic Nitrogen (mg/L),pH,-0.1690788114851346,0.1690788114851346,Very Weak
+1,Total Inorganic Nitrogen (mg/L),Temperature (°C),-0.25448417349518704,0.25448417349518704,Weak
+1,Total Inorganic Nitrogen (mg/L),Salinity (psu),-0.16297094595544553,0.16297094595544553,Very Weak
+1,Chlorophyll-a (μg/L),Dissolved Oxygen (%saturation),0.3607117945459374,0.3607117945459374,Weak
+1,Chlorophyll-a (μg/L),Dissolved Oxygen (mg/L),0.3592579132750642,0.3592579132750642,Weak
+1,Chlorophyll-a (μg/L),E. coli (cfu/100mL),0.018357111391632798,0.018357111391632798,Very Weak
+1,Chlorophyll-a (μg/L),Turbidity (NTU),0.026134592978657337,0.026134592978657337,Very Weak
+1,Chlorophyll-a (μg/L),pH,0.2519566643022482,0.2519566643022482,Weak
+1,Chlorophyll-a (μg/L),Temperature (°C),0.008875928863950564,0.008875928863950564,Very Weak
+1,Chlorophyll-a (μg/L),Salinity (psu),-0.14134681957272818,0.14134681957272818,Very Weak
+1,Dissolved Oxygen (%saturation),Dissolved Oxygen (mg/L),0.9462729126786671,0.9462729126786671,Very Strong
+1,Dissolved Oxygen (%saturation),E. coli (cfu/100mL),-0.07721083291509644,0.07721083291509644,Very Weak
+1,Dissolved Oxygen (%saturation),Turbidity (NTU),-0.01729078064646094,0.01729078064646094,Very Weak
+1,Dissolved Oxygen (%saturation),pH,0.4596355191131643,0.4596355191131643,Moderate
+1,Dissolved Oxygen (%saturation),Temperature (°C),0.13461494590786438,0.13461494590786438,Very Weak
+1,Dissolved Oxygen (%saturation),Salinity (psu),-0.15890274835314178,0.15890274835314178,Very Weak
+1,Dissolved Oxygen (mg/L),E. coli (cfu/100mL),-0.08179299262079566,0.08179299262079566,Very Weak
+1,Dissolved Oxygen (mg/L),Turbidity (NTU),-0.006779285415477282,0.006779285415477282,Very Weak
+1,Dissolved Oxygen (mg/L),pH,0.43241288673054135,0.43241288673054135,Moderate
+1,Dissolved Oxygen (mg/L),Temperature (°C),-0.1445708380729232,0.1445708380729232,Very Weak
+1,Dissolved Oxygen (mg/L),Salinity (psu),-0.1141139663019222,0.1141139663019222,Very Weak
+1,E. coli (cfu/100mL),Turbidity (NTU),0.06749154284398899,0.06749154284398899,Very Weak
+1,E. coli (cfu/100mL),pH,-0.06946862097511922,0.06946862097511922,Very Weak
+1,E. coli (cfu/100mL),Temperature (°C),0.047997176308718956,0.047997176308718956,Very Weak
+1,E. coli (cfu/100mL),Salinity (psu),-0.12179471637352315,0.12179471637352315,Very Weak
+1,Turbidity (NTU),pH,-0.06908745893889247,0.06908745893889247,Very Weak
+1,Turbidity (NTU),Temperature (°C),0.020265533385126593,0.020265533385126593,Very Weak
+1,Turbidity (NTU),Salinity (psu),-0.23888295318698297,0.23888295318698297,Weak
+1,pH,Temperature (°C),0.10263294180460099,0.10263294180460099,Very Weak
+1,pH,Salinity (psu),-0.08623868196416848,0.08623868196416848,Very Weak
+1,Temperature (°C),Salinity (psu),-0.33518082523597204,0.33518082523597204,Weak
+2,5-day Biochemical Oxygen Demand (mg/L),Suspended Solids (mg/L),-0.07158608919044464,0.07158608919044464,Very Weak
+2,5-day Biochemical Oxygen Demand (mg/L),Total Phosphorus (mg/L),0.008159304312041156,0.008159304312041156,Very Weak
+2,5-day Biochemical Oxygen Demand (mg/L),Total Nitrogen (mg/L),0.20886990063360278,0.20886990063360278,Weak
+2,5-day Biochemical Oxygen Demand (mg/L),Ammonia Nitrogen (mg/L),-0.10645667182940924,0.10645667182940924,Very Weak
+2,5-day Biochemical Oxygen Demand (mg/L),Orthophosphate Phosphorus (mg/L),-0.20508465571572823,0.20508465571572823,Weak
+2,5-day Biochemical Oxygen Demand (mg/L),Total Inorganic Nitrogen (mg/L),0.14002460546656356,0.14002460546656356,Very Weak
+2,5-day Biochemical Oxygen Demand (mg/L),Chlorophyll-a (μg/L),0.6799310435850638,0.6799310435850638,Strong
+2,5-day Biochemical Oxygen Demand (mg/L),Dissolved Oxygen (%saturation),0.5445541573188298,0.5445541573188298,Moderate
+2,5-day Biochemical Oxygen Demand (mg/L),Dissolved Oxygen (mg/L),0.46108584310349077,0.46108584310349077,Moderate
+2,5-day Biochemical Oxygen Demand (mg/L),E. coli (cfu/100mL),-0.05415439734202981,0.05415439734202981,Very Weak
+2,5-day Biochemical Oxygen Demand (mg/L),Turbidity (NTU),-0.10802017317558812,0.10802017317558812,Very Weak
+2,5-day Biochemical Oxygen Demand (mg/L),pH,0.3434684134878515,0.3434684134878515,Weak
+2,5-day Biochemical Oxygen Demand (mg/L),Temperature (°C),0.26389533924857816,0.26389533924857816,Weak
+2,5-day Biochemical Oxygen Demand (mg/L),Salinity (psu),-0.40560836286447327,0.40560836286447327,Moderate
+2,Suspended Solids (mg/L),Total Phosphorus (mg/L),0.03663474932489561,0.03663474932489561,Very Weak
+2,Suspended Solids (mg/L),Total Nitrogen (mg/L),-0.043144313187093344,0.043144313187093344,Very Weak
+2,Suspended Solids (mg/L),Ammonia Nitrogen (mg/L),0.016953633021189053,0.016953633021189053,Very Weak
+2,Suspended Solids (mg/L),Orthophosphate Phosphorus (mg/L),0.0776684060213871,0.0776684060213871,Very Weak
+2,Suspended Solids (mg/L),Total Inorganic Nitrogen (mg/L),-0.0668461671680481,0.0668461671680481,Very Weak
+2,Suspended Solids (mg/L),Chlorophyll-a (μg/L),0.004003696201267826,0.004003696201267826,Very Weak
+2,Suspended Solids (mg/L),Dissolved Oxygen (%saturation),-0.08056820796394838,0.08056820796394838,Very Weak
+2,Suspended Solids (mg/L),Dissolved Oxygen (mg/L),-0.09687102953498679,0.09687102953498679,Very Weak
+2,Suspended Solids (mg/L),E. coli (cfu/100mL),0.00395393389425155,0.00395393389425155,Very Weak
+2,Suspended Solids (mg/L),Turbidity (NTU),0.2602515890149308,0.2602515890149308,Weak
+2,Suspended Solids (mg/L),pH,-0.040878346091077926,0.040878346091077926,Very Weak
+2,Suspended Solids (mg/L),Temperature (°C),0.002637211904576277,0.002637211904576277,Very Weak
+2,Suspended Solids (mg/L),Salinity (psu),0.10314395680799651,0.10314395680799651,Very Weak
+2,Total Phosphorus (mg/L),Total Nitrogen (mg/L),0.08728668847765117,0.08728668847765117,Very Weak
+2,Total Phosphorus (mg/L),Ammonia Nitrogen (mg/L),0.05086392837138232,0.05086392837138232,Very Weak
+2,Total Phosphorus (mg/L),Orthophosphate Phosphorus (mg/L),0.2356708213090982,0.2356708213090982,Weak
+2,Total Phosphorus (mg/L),Total Inorganic Nitrogen (mg/L),0.007167299639391209,0.007167299639391209,Very Weak
+2,Total Phosphorus (mg/L),Chlorophyll-a (μg/L),-0.02035092517027605,0.02035092517027605,Very Weak
+2,Total Phosphorus (mg/L),Dissolved Oxygen (%saturation),0.033252146428290295,0.033252146428290295,Very Weak
+2,Total Phosphorus (mg/L),Dissolved Oxygen (mg/L),0.036789496656572364,0.036789496656572364,Very Weak
+2,Total Phosphorus (mg/L),E. coli (cfu/100mL),-0.010442434777908995,0.010442434777908995,Very Weak
+2,Total Phosphorus (mg/L),Turbidity (NTU),-0.034267257087208104,0.034267257087208104,Very Weak
+2,Total Phosphorus (mg/L),pH,-0.0037960570442806224,0.0037960570442806224,Very Weak
+2,Total Phosphorus (mg/L),Temperature (°C),0.005378519141326435,0.005378519141326435,Very Weak
+2,Total Phosphorus (mg/L),Salinity (psu),-0.011887327753481763,0.011887327753481763,Very Weak
+2,Total Nitrogen (mg/L),Ammonia Nitrogen (mg/L),0.18343678216367093,0.18343678216367093,Very Weak
+2,Total Nitrogen (mg/L),Orthophosphate Phosphorus (mg/L),0.10068675602704999,0.10068675602704999,Very Weak
+2,Total Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.6327871776175404,0.6327871776175404,Strong
+2,Total Nitrogen (mg/L),Chlorophyll-a (μg/L),0.2279422692130472,0.2279422692130472,Weak
+2,Total Nitrogen (mg/L),Dissolved Oxygen (%saturation),0.05349122133865976,0.05349122133865976,Very Weak
+2,Total Nitrogen (mg/L),Dissolved Oxygen (mg/L),0.02021309879861151,0.02021309879861151,Very Weak
+2,Total Nitrogen (mg/L),E. coli (cfu/100mL),0.044565031547698176,0.044565031547698176,Very Weak
+2,Total Nitrogen (mg/L),Turbidity (NTU),-0.02779260109798841,0.02779260109798841,Very Weak
+2,Total Nitrogen (mg/L),pH,-0.07100761964540292,0.07100761964540292,Very Weak
+2,Total Nitrogen (mg/L),Temperature (°C),0.24788753181156875,0.24788753181156875,Weak
+2,Total Nitrogen (mg/L),Salinity (psu),-0.5137273961137103,0.5137273961137103,Moderate
+2,Ammonia Nitrogen (mg/L),Orthophosphate Phosphorus (mg/L),0.3331146185133218,0.3331146185133218,Weak
+2,Ammonia Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.2547370240406332,0.2547370240406332,Weak
+2,Ammonia Nitrogen (mg/L),Chlorophyll-a (μg/L),-0.24123693488944845,0.24123693488944845,Weak
+2,Ammonia Nitrogen (mg/L),Dissolved Oxygen (%saturation),-0.16990037346307071,0.16990037346307071,Very Weak
+2,Ammonia Nitrogen (mg/L),Dissolved Oxygen (mg/L),-0.09374588821888587,0.09374588821888587,Very Weak
+2,Ammonia Nitrogen (mg/L),E. coli (cfu/100mL),0.13265496167912671,0.13265496167912671,Very Weak
+2,Ammonia Nitrogen (mg/L),Turbidity (NTU),0.03582087717289488,0.03582087717289488,Very Weak
+2,Ammonia Nitrogen (mg/L),pH,-0.19450477056423915,0.19450477056423915,Very Weak
+2,Ammonia Nitrogen (mg/L),Temperature (°C),-0.19368491591247486,0.19368491591247486,Very Weak
+2,Ammonia Nitrogen (mg/L),Salinity (psu),0.09338363449464174,0.09338363449464174,Very Weak
+2,Orthophosphate Phosphorus (mg/L),Total Inorganic Nitrogen (mg/L),0.1606170352637551,0.1606170352637551,Very Weak
+2,Orthophosphate Phosphorus (mg/L),Chlorophyll-a (μg/L),-0.3062167991710682,0.3062167991710682,Weak
+2,Orthophosphate Phosphorus (mg/L),Dissolved Oxygen (%saturation),-0.17471901026064857,0.17471901026064857,Very Weak
+2,Orthophosphate Phosphorus (mg/L),Dissolved Oxygen (mg/L),-0.12061640811697726,0.12061640811697726,Very Weak
+2,Orthophosphate Phosphorus (mg/L),E. coli (cfu/100mL),0.0583846084808589,0.0583846084808589,Very Weak
+2,Orthophosphate Phosphorus (mg/L),Turbidity (NTU),0.06357961331005893,0.06357961331005893,Very Weak
+2,Orthophosphate Phosphorus (mg/L),pH,-0.06926000748786261,0.06926000748786261,Very Weak
+2,Orthophosphate Phosphorus (mg/L),Temperature (°C),-0.10407351285902909,0.10407351285902909,Very Weak
+2,Orthophosphate Phosphorus (mg/L),Salinity (psu),0.0032501472374685102,0.0032501472374685102,Very Weak
+2,Total Inorganic Nitrogen (mg/L),Chlorophyll-a (μg/L),0.21068707720090402,0.21068707720090402,Weak
+2,Total Inorganic Nitrogen (mg/L),Dissolved Oxygen (%saturation),0.004159988068928146,0.004159988068928146,Very Weak
+2,Total Inorganic Nitrogen (mg/L),Dissolved Oxygen (mg/L),-0.046524881977040834,0.046524881977040834,Very Weak
+2,Total Inorganic Nitrogen (mg/L),E. coli (cfu/100mL),0.04437069631554747,0.04437069631554747,Very Weak
+2,Total Inorganic Nitrogen (mg/L),Turbidity (NTU),0.09402515189814456,0.09402515189814456,Very Weak
+2,Total Inorganic Nitrogen (mg/L),pH,0.022014301277167633,0.022014301277167633,Very Weak
+2,Total Inorganic Nitrogen (mg/L),Temperature (°C),0.35093270454973463,0.35093270454973463,Weak
+2,Total Inorganic Nitrogen (mg/L),Salinity (psu),-0.7498620585277834,0.7498620585277834,Strong
+2,Chlorophyll-a (μg/L),Dissolved Oxygen (%saturation),0.5106034571323115,0.5106034571323115,Moderate
+2,Chlorophyll-a (μg/L),Dissolved Oxygen (mg/L),0.382612755879738,0.382612755879738,Weak
+2,Chlorophyll-a (μg/L),E. coli (cfu/100mL),-0.03139511991004785,0.03139511991004785,Very Weak
+2,Chlorophyll-a (μg/L),Turbidity (NTU),-0.044043846809938315,0.044043846809938315,Very Weak
+2,Chlorophyll-a (μg/L),pH,0.2990213519775005,0.2990213519775005,Weak
+2,Chlorophyll-a (μg/L),Temperature (°C),0.37106636991433933,0.37106636991433933,Weak
+2,Chlorophyll-a (μg/L),Salinity (psu),-0.46142610162665293,0.46142610162665293,Moderate
+2,Dissolved Oxygen (%saturation),Dissolved Oxygen (mg/L),0.9270507246815681,0.9270507246815681,Very Strong
+2,Dissolved Oxygen (%saturation),E. coli (cfu/100mL),-0.07399219469645743,0.07399219469645743,Very Weak
+2,Dissolved Oxygen (%saturation),Turbidity (NTU),-0.11979766947578387,0.11979766947578387,Very Weak
+2,Dissolved Oxygen (%saturation),pH,0.3856310260549083,0.3856310260549083,Weak
+2,Dissolved Oxygen (%saturation),Temperature (°C),0.16729375537989294,0.16729375537989294,Very Weak
+2,Dissolved Oxygen (%saturation),Salinity (psu),-0.3047975201211917,0.3047975201211917,Weak
+2,Dissolved Oxygen (mg/L),E. coli (cfu/100mL),-0.0753304739417277,0.0753304739417277,Very Weak
+2,Dissolved Oxygen (mg/L),Turbidity (NTU),-0.137767173245233,0.137767173245233,Very Weak
+2,Dissolved Oxygen (mg/L),pH,0.3389946623015781,0.3389946623015781,Weak
+2,Dissolved Oxygen (mg/L),Temperature (°C),-0.16341644610022646,0.16341644610022646,Very Weak
+2,Dissolved Oxygen (mg/L),Salinity (psu),-0.1807161768412408,0.1807161768412408,Very Weak
+2,E. coli (cfu/100mL),Turbidity (NTU),0.02657911112898289,0.02657911112898289,Very Weak
+2,E. coli (cfu/100mL),pH,-0.06419395129461337,0.06419395129461337,Very Weak
+2,E. coli (cfu/100mL),Temperature (°C),0.009649264042270045,0.009649264042270045,Very Weak
+2,E. coli (cfu/100mL),Salinity (psu),0.007779542720455041,0.007779542720455041,Very Weak
+2,Turbidity (NTU),pH,-0.06539532311386767,0.06539532311386767,Very Weak
+2,Turbidity (NTU),Temperature (°C),0.04209690047341226,0.04209690047341226,Very Weak
+2,Turbidity (NTU),Salinity (psu),0.00425693699287794,0.00425693699287794,Very Weak
+2,pH,Temperature (°C),0.1903210024600264,0.1903210024600264,Very Weak
+2,pH,Salinity (psu),-0.2961416654526577,0.2961416654526577,Weak
+2,Temperature (°C),Salinity (psu),-0.5587999966553566,0.5587999966553566,Moderate
+3,5-day Biochemical Oxygen Demand (mg/L),Suspended Solids (mg/L),0.07214790643700321,0.07214790643700321,Very Weak
+3,5-day Biochemical Oxygen Demand (mg/L),Total Phosphorus (mg/L),0.18575956500252389,0.18575956500252389,Very Weak
+3,5-day Biochemical Oxygen Demand (mg/L),Total Nitrogen (mg/L),0.1720631922973329,0.1720631922973329,Very Weak
+3,5-day Biochemical Oxygen Demand (mg/L),Ammonia Nitrogen (mg/L),0.07540013055351603,0.07540013055351603,Very Weak
+3,5-day Biochemical Oxygen Demand (mg/L),Orthophosphate Phosphorus (mg/L),-0.014366121184700941,0.014366121184700941,Very Weak
+3,5-day Biochemical Oxygen Demand (mg/L),Total Inorganic Nitrogen (mg/L),-0.05773577277002857,0.05773577277002857,Very Weak
+3,5-day Biochemical Oxygen Demand (mg/L),Chlorophyll-a (μg/L),0.606854081333307,0.606854081333307,Strong
+3,5-day Biochemical Oxygen Demand (mg/L),Dissolved Oxygen (%saturation),0.2828369740118479,0.2828369740118479,Weak
+3,5-day Biochemical Oxygen Demand (mg/L),Dissolved Oxygen (mg/L),0.25171887027995576,0.25171887027995576,Weak
+3,5-day Biochemical Oxygen Demand (mg/L),E. coli (cfu/100mL),0.015872632757591154,0.015872632757591154,Very Weak
+3,5-day Biochemical Oxygen Demand (mg/L),Turbidity (NTU),-0.0022286154230912545,0.0022286154230912545,Very Weak
+3,5-day Biochemical Oxygen Demand (mg/L),pH,0.08077695481458011,0.08077695481458011,Very Weak
+3,5-day Biochemical Oxygen Demand (mg/L),Temperature (°C),-0.007066603757822766,0.007066603757822766,Very Weak
+3,5-day Biochemical Oxygen Demand (mg/L),Salinity (psu),-0.10772285593546738,0.10772285593546738,Very Weak
+3,Suspended Solids (mg/L),Total Phosphorus (mg/L),0.011978800858942948,0.011978800858942948,Very Weak
+3,Suspended Solids (mg/L),Total Nitrogen (mg/L),0.03192406909894628,0.03192406909894628,Very Weak
+3,Suspended Solids (mg/L),Ammonia Nitrogen (mg/L),-0.0140386071841048,0.0140386071841048,Very Weak
+3,Suspended Solids (mg/L),Orthophosphate Phosphorus (mg/L),-0.027437776511220927,0.027437776511220927,Very Weak
+3,Suspended Solids (mg/L),Total Inorganic Nitrogen (mg/L),-0.018866878755308174,0.018866878755308174,Very Weak
+3,Suspended Solids (mg/L),Chlorophyll-a (μg/L),0.08644196665128663,0.08644196665128663,Very Weak
+3,Suspended Solids (mg/L),Dissolved Oxygen (%saturation),-0.035991009069751737,0.035991009069751737,Very Weak
+3,Suspended Solids (mg/L),Dissolved Oxygen (mg/L),-0.0004927785144738668,0.0004927785144738668,Very Weak
+3,Suspended Solids (mg/L),E. coli (cfu/100mL),0.03553933951801959,0.03553933951801959,Very Weak
+3,Suspended Solids (mg/L),Turbidity (NTU),0.023056604661356107,0.023056604661356107,Very Weak
+3,Suspended Solids (mg/L),pH,-0.096822787231922,0.096822787231922,Very Weak
+3,Suspended Solids (mg/L),Temperature (°C),-0.058681018541843655,0.058681018541843655,Very Weak
+3,Suspended Solids (mg/L),Salinity (psu),0.012437965105195101,0.012437965105195101,Very Weak
+3,Total Phosphorus (mg/L),Total Nitrogen (mg/L),0.0643260211878102,0.0643260211878102,Very Weak
+3,Total Phosphorus (mg/L),Ammonia Nitrogen (mg/L),0.21861110993774907,0.21861110993774907,Weak
+3,Total Phosphorus (mg/L),Orthophosphate Phosphorus (mg/L),0.2639192238259845,0.2639192238259845,Weak
+3,Total Phosphorus (mg/L),Total Inorganic Nitrogen (mg/L),0.07598119676115592,0.07598119676115592,Very Weak
+3,Total Phosphorus (mg/L),Chlorophyll-a (μg/L),-0.04762218903095128,0.04762218903095128,Very Weak
+3,Total Phosphorus (mg/L),Dissolved Oxygen (%saturation),0.061735124257886395,0.061735124257886395,Very Weak
+3,Total Phosphorus (mg/L),Dissolved Oxygen (mg/L),0.08123321727511916,0.08123321727511916,Very Weak
+3,Total Phosphorus (mg/L),E. coli (cfu/100mL),0.023479759398145925,0.023479759398145925,Very Weak
+3,Total Phosphorus (mg/L),Turbidity (NTU),-0.05265027462487962,0.05265027462487962,Very Weak
+3,Total Phosphorus (mg/L),pH,0.032696937906330124,0.032696937906330124,Very Weak
+3,Total Phosphorus (mg/L),Temperature (°C),-0.04808207900510047,0.04808207900510047,Very Weak
+3,Total Phosphorus (mg/L),Salinity (psu),0.15836380338356626,0.15836380338356626,Very Weak
+3,Total Nitrogen (mg/L),Ammonia Nitrogen (mg/L),0.17334174752437134,0.17334174752437134,Very Weak
+3,Total Nitrogen (mg/L),Orthophosphate Phosphorus (mg/L),0.11135770095216653,0.11135770095216653,Very Weak
+3,Total Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.19595822055490517,0.19595822055490517,Very Weak
+3,Total Nitrogen (mg/L),Chlorophyll-a (μg/L),0.17656978084343117,0.17656978084343117,Very Weak
+3,Total Nitrogen (mg/L),Dissolved Oxygen (%saturation),0.056098836570142745,0.056098836570142745,Very Weak
+3,Total Nitrogen (mg/L),Dissolved Oxygen (mg/L),0.0679901082920416,0.0679901082920416,Very Weak
+3,Total Nitrogen (mg/L),E. coli (cfu/100mL),0.06988265424977393,0.06988265424977393,Very Weak
+3,Total Nitrogen (mg/L),Turbidity (NTU),-0.0019976277059044253,0.0019976277059044253,Very Weak
+3,Total Nitrogen (mg/L),pH,-0.04397868617214724,0.04397868617214724,Very Weak
+3,Total Nitrogen (mg/L),Temperature (°C),-0.018956843179290472,0.018956843179290472,Very Weak
+3,Total Nitrogen (mg/L),Salinity (psu),-0.117858567232394,0.117858567232394,Very Weak
+3,Ammonia Nitrogen (mg/L),Orthophosphate Phosphorus (mg/L),0.4126438993518797,0.4126438993518797,Moderate
+3,Ammonia Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.71222375518525,0.71222375518525,Strong
+3,Ammonia Nitrogen (mg/L),Chlorophyll-a (μg/L),-0.021514916115528457,0.021514916115528457,Very Weak
+3,Ammonia Nitrogen (mg/L),Dissolved Oxygen (%saturation),0.03668607476196477,0.03668607476196477,Very Weak
+3,Ammonia Nitrogen (mg/L),Dissolved Oxygen (mg/L),0.11575412028575423,0.11575412028575423,Very Weak
+3,Ammonia Nitrogen (mg/L),E. coli (cfu/100mL),0.11310971955571511,0.11310971955571511,Very Weak
+3,Ammonia Nitrogen (mg/L),Turbidity (NTU),-0.03449740252524044,0.03449740252524044,Very Weak
+3,Ammonia Nitrogen (mg/L),pH,-0.0083281843048284,0.0083281843048284,Very Weak
+3,Ammonia Nitrogen (mg/L),Temperature (°C),-0.14730696863611273,0.14730696863611273,Very Weak
+3,Ammonia Nitrogen (mg/L),Salinity (psu),-0.013280200451973192,0.013280200451973192,Very Weak
+3,Orthophosphate Phosphorus (mg/L),Total Inorganic Nitrogen (mg/L),0.3128562177350242,0.3128562177350242,Weak
+3,Orthophosphate Phosphorus (mg/L),Chlorophyll-a (μg/L),-0.13872078662298773,0.13872078662298773,Very Weak
+3,Orthophosphate Phosphorus (mg/L),Dissolved Oxygen (%saturation),0.037798220921782345,0.037798220921782345,Very Weak
+3,Orthophosphate Phosphorus (mg/L),Dissolved Oxygen (mg/L),0.07317958992811296,0.07317958992811296,Very Weak
+3,Orthophosphate Phosphorus (mg/L),E. coli (cfu/100mL),0.0707744064247755,0.0707744064247755,Very Weak
+3,Orthophosphate Phosphorus (mg/L),Turbidity (NTU),-0.09221591408629917,0.09221591408629917,Very Weak
+3,Orthophosphate Phosphorus (mg/L),pH,0.13417295107745097,0.13417295107745097,Very Weak
+3,Orthophosphate Phosphorus (mg/L),Temperature (°C),-0.072899585693435,0.072899585693435,Very Weak
+3,Orthophosphate Phosphorus (mg/L),Salinity (psu),0.0598325329108125,0.0598325329108125,Very Weak
+3,Total Inorganic Nitrogen (mg/L),Chlorophyll-a (μg/L),-0.0961797601442001,0.0961797601442001,Very Weak
+3,Total Inorganic Nitrogen (mg/L),Dissolved Oxygen (%saturation),-0.04796341932031209,0.04796341932031209,Very Weak
+3,Total Inorganic Nitrogen (mg/L),Dissolved Oxygen (mg/L),0.09568437072397884,0.09568437072397884,Very Weak
+3,Total Inorganic Nitrogen (mg/L),E. coli (cfu/100mL),0.17211651661933847,0.17211651661933847,Very Weak
+3,Total Inorganic Nitrogen (mg/L),Turbidity (NTU),-0.06847390639774148,0.06847390639774148,Very Weak
+3,Total Inorganic Nitrogen (mg/L),pH,-0.12036122925118374,0.12036122925118374,Very Weak
+3,Total Inorganic Nitrogen (mg/L),Temperature (°C),-0.23221163363569775,0.23221163363569775,Weak
+3,Total Inorganic Nitrogen (mg/L),Salinity (psu),-0.24527605074420622,0.24527605074420622,Weak
+3,Chlorophyll-a (μg/L),Dissolved Oxygen (%saturation),0.15373204512329747,0.15373204512329747,Very Weak
+3,Chlorophyll-a (μg/L),Dissolved Oxygen (mg/L),0.14461509655834962,0.14461509655834962,Very Weak
+3,Chlorophyll-a (μg/L),E. coli (cfu/100mL),-0.006330307078473213,0.006330307078473213,Very Weak
+3,Chlorophyll-a (μg/L),Turbidity (NTU),0.06562536348856902,0.06562536348856902,Very Weak
+3,Chlorophyll-a (μg/L),pH,-0.011599645771663608,0.011599645771663608,Very Weak
+3,Chlorophyll-a (μg/L),Temperature (°C),-0.020897264731255465,0.020897264731255465,Very Weak
+3,Chlorophyll-a (μg/L),Salinity (psu),-0.05538779225716501,0.05538779225716501,Very Weak
+3,Dissolved Oxygen (%saturation),Dissolved Oxygen (mg/L),0.8796065897595058,0.8796065897595058,Very Strong
+3,Dissolved Oxygen (%saturation),E. coli (cfu/100mL),-0.10975406722142524,0.10975406722142524,Very Weak
+3,Dissolved Oxygen (%saturation),Turbidity (NTU),-0.04526838714720956,0.04526838714720956,Very Weak
+3,Dissolved Oxygen (%saturation),pH,0.3108069368998294,0.3108069368998294,Weak
+3,Dissolved Oxygen (%saturation),Temperature (°C),0.046155742688926193,0.046155742688926193,Very Weak
+3,Dissolved Oxygen (%saturation),Salinity (psu),-0.13489494928475068,0.13489494928475068,Very Weak
+3,Dissolved Oxygen (mg/L),E. coli (cfu/100mL),-0.08869789498347963,0.08869789498347963,Very Weak
+3,Dissolved Oxygen (mg/L),Turbidity (NTU),-0.05745818198011775,0.05745818198011775,Very Weak
+3,Dissolved Oxygen (mg/L),pH,0.19492638350232577,0.19492638350232577,Very Weak
+3,Dissolved Oxygen (mg/L),Temperature (°C),-0.4022235632523464,0.4022235632523464,Moderate
+3,Dissolved Oxygen (mg/L),Salinity (psu),0.03190707492834472,0.03190707492834472,Very Weak
+3,E. coli (cfu/100mL),Turbidity (NTU),-0.02861208661512409,0.02861208661512409,Very Weak
+3,E. coli (cfu/100mL),pH,-0.08592267647508794,0.08592267647508794,Very Weak
+3,E. coli (cfu/100mL),Temperature (°C),-0.01580877114561748,0.01580877114561748,Very Weak
+3,E. coli (cfu/100mL),Salinity (psu),-0.05097341974485893,0.05097341974485893,Very Weak
+3,Turbidity (NTU),pH,-0.1366578716450036,0.1366578716450036,Very Weak
+3,Turbidity (NTU),Temperature (°C),0.023828272225214647,0.023828272225214647,Very Weak
+3,Turbidity (NTU),Salinity (psu),0.07475308574317371,0.07475308574317371,Very Weak
+3,pH,Temperature (°C),0.23149543045477072,0.23149543045477072,Weak
+3,pH,Salinity (psu),-0.23462438995858448,0.23462438995858448,Weak
+3,Temperature (°C),Salinity (psu),-0.47165088662809507,0.47165088662809507,Moderate
+4,5-day Biochemical Oxygen Demand (mg/L),Suspended Solids (mg/L),0.038146203906225,0.038146203906225,Very Weak
+4,5-day Biochemical Oxygen Demand (mg/L),Total Phosphorus (mg/L),0.0031389647172634285,0.0031389647172634285,Very Weak
+4,5-day Biochemical Oxygen Demand (mg/L),Total Nitrogen (mg/L),0.0520363953985293,0.0520363953985293,Very Weak
+4,5-day Biochemical Oxygen Demand (mg/L),Ammonia Nitrogen (mg/L),-0.09939608232568453,0.09939608232568453,Very Weak
+4,5-day Biochemical Oxygen Demand (mg/L),Orthophosphate Phosphorus (mg/L),-0.1978695973519174,0.1978695973519174,Very Weak
+4,5-day Biochemical Oxygen Demand (mg/L),Total Inorganic Nitrogen (mg/L),0.012786735759969307,0.012786735759969307,Very Weak
+4,5-day Biochemical Oxygen Demand (mg/L),Chlorophyll-a (μg/L),0.6518280696639933,0.6518280696639933,Strong
+4,5-day Biochemical Oxygen Demand (mg/L),Dissolved Oxygen (%saturation),0.4995839251074669,0.4995839251074669,Moderate
+4,5-day Biochemical Oxygen Demand (mg/L),Dissolved Oxygen (mg/L),0.40619150302306345,0.40619150302306345,Moderate
+4,5-day Biochemical Oxygen Demand (mg/L),E. coli (cfu/100mL),0.006591296586248227,0.006591296586248227,Very Weak
+4,5-day Biochemical Oxygen Demand (mg/L),Turbidity (NTU),-0.03475527832933254,0.03475527832933254,Very Weak
+4,5-day Biochemical Oxygen Demand (mg/L),pH,0.35530127249094445,0.35530127249094445,Weak
+4,5-day Biochemical Oxygen Demand (mg/L),Temperature (°C),0.2644597325389474,0.2644597325389474,Weak
+4,5-day Biochemical Oxygen Demand (mg/L),Salinity (psu),-0.325543510477096,0.325543510477096,Weak
+4,Suspended Solids (mg/L),Total Phosphorus (mg/L),0.12431129181050135,0.12431129181050135,Very Weak
+4,Suspended Solids (mg/L),Total Nitrogen (mg/L),0.02708510285355093,0.02708510285355093,Very Weak
+4,Suspended Solids (mg/L),Ammonia Nitrogen (mg/L),-0.001315265061724986,0.001315265061724986,Very Weak
+4,Suspended Solids (mg/L),Orthophosphate Phosphorus (mg/L),0.027146595218280827,0.027146595218280827,Very Weak
+4,Suspended Solids (mg/L),Total Inorganic Nitrogen (mg/L),-0.029422849456909456,0.029422849456909456,Very Weak
+4,Suspended Solids (mg/L),Chlorophyll-a (μg/L),0.0006814773932410629,0.0006814773932410629,Very Weak
+4,Suspended Solids (mg/L),Dissolved Oxygen (%saturation),0.013859375974603126,0.013859375974603126,Very Weak
+4,Suspended Solids (mg/L),Dissolved Oxygen (mg/L),-0.028157269630691796,0.028157269630691796,Very Weak
+4,Suspended Solids (mg/L),E. coli (cfu/100mL),-0.002776674427718533,0.002776674427718533,Very Weak
+4,Suspended Solids (mg/L),Turbidity (NTU),-0.017319719032735787,0.017319719032735787,Very Weak
+4,Suspended Solids (mg/L),pH,0.11756573810926627,0.11756573810926627,Very Weak
+4,Suspended Solids (mg/L),Temperature (°C),0.11973777551523378,0.11973777551523378,Very Weak
+4,Suspended Solids (mg/L),Salinity (psu),-0.011083492394472,0.011083492394472,Very Weak
+4,Total Phosphorus (mg/L),Total Nitrogen (mg/L),0.3132112508183717,0.3132112508183717,Weak
+4,Total Phosphorus (mg/L),Ammonia Nitrogen (mg/L),0.463916953534699,0.463916953534699,Moderate
+4,Total Phosphorus (mg/L),Orthophosphate Phosphorus (mg/L),0.5150217221228854,0.5150217221228854,Moderate
+4,Total Phosphorus (mg/L),Total Inorganic Nitrogen (mg/L),0.4006195291078097,0.4006195291078097,Moderate
+4,Total Phosphorus (mg/L),Chlorophyll-a (μg/L),-0.059465507952543475,0.059465507952543475,Very Weak
+4,Total Phosphorus (mg/L),Dissolved Oxygen (%saturation),-0.14561815039565815,0.14561815039565815,Very Weak
+4,Total Phosphorus (mg/L),Dissolved Oxygen (mg/L),-0.12581819441019756,0.12581819441019756,Very Weak
+4,Total Phosphorus (mg/L),E. coli (cfu/100mL),0.13582936293250053,0.13582936293250053,Very Weak
+4,Total Phosphorus (mg/L),Turbidity (NTU),-0.08848460781446642,0.08848460781446642,Very Weak
+4,Total Phosphorus (mg/L),pH,-0.03953164755569504,0.03953164755569504,Very Weak
+4,Total Phosphorus (mg/L),Temperature (°C),-0.01664289063314967,0.01664289063314967,Very Weak
+4,Total Phosphorus (mg/L),Salinity (psu),0.026729396487721473,0.026729396487721473,Very Weak
+4,Total Nitrogen (mg/L),Ammonia Nitrogen (mg/L),0.4593307283159656,0.4593307283159656,Moderate
+4,Total Nitrogen (mg/L),Orthophosphate Phosphorus (mg/L),0.40842406739722353,0.40842406739722353,Moderate
+4,Total Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.5086905757053165,0.5086905757053165,Moderate
+4,Total Nitrogen (mg/L),Chlorophyll-a (μg/L),0.07494651061491359,0.07494651061491359,Very Weak
+4,Total Nitrogen (mg/L),Dissolved Oxygen (%saturation),-0.12413813285704928,0.12413813285704928,Very Weak
+4,Total Nitrogen (mg/L),Dissolved Oxygen (mg/L),-0.10171784862315637,0.10171784862315637,Very Weak
+4,Total Nitrogen (mg/L),E. coli (cfu/100mL),0.16866997939165307,0.16866997939165307,Very Weak
+4,Total Nitrogen (mg/L),Turbidity (NTU),-0.13147374384189905,0.13147374384189905,Very Weak
+4,Total Nitrogen (mg/L),pH,-0.09029938812335568,0.09029938812335568,Very Weak
+4,Total Nitrogen (mg/L),Temperature (°C),-0.012035694438391337,0.012035694438391337,Very Weak
+4,Total Nitrogen (mg/L),Salinity (psu),-0.2240588070131053,0.2240588070131053,Weak
+4,Ammonia Nitrogen (mg/L),Orthophosphate Phosphorus (mg/L),0.7410252532174324,0.7410252532174324,Strong
+4,Ammonia Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.7447413585173078,0.7447413585173078,Strong
+4,Ammonia Nitrogen (mg/L),Chlorophyll-a (μg/L),-0.21933600008149765,0.21933600008149765,Weak
+4,Ammonia Nitrogen (mg/L),Dissolved Oxygen (%saturation),-0.36217176711241666,0.36217176711241666,Weak
+4,Ammonia Nitrogen (mg/L),Dissolved Oxygen (mg/L),-0.3297332740376931,0.3297332740376931,Weak
+4,Ammonia Nitrogen (mg/L),E. coli (cfu/100mL),0.1935526066641006,0.1935526066641006,Very Weak
+4,Ammonia Nitrogen (mg/L),Turbidity (NTU),-0.09932246483551371,0.09932246483551371,Very Weak
+4,Ammonia Nitrogen (mg/L),pH,-0.03601409053657136,0.03601409053657136,Very Weak
+4,Ammonia Nitrogen (mg/L),Temperature (°C),-0.06461385509483603,0.06461385509483603,Very Weak
+4,Ammonia Nitrogen (mg/L),Salinity (psu),-0.018300190216241664,0.018300190216241664,Very Weak
+4,Orthophosphate Phosphorus (mg/L),Total Inorganic Nitrogen (mg/L),0.6113525574410813,0.6113525574410813,Strong
+4,Orthophosphate Phosphorus (mg/L),Chlorophyll-a (μg/L),-0.3412543492651341,0.3412543492651341,Weak
+4,Orthophosphate Phosphorus (mg/L),Dissolved Oxygen (%saturation),-0.4291210419152912,0.4291210419152912,Moderate
+4,Orthophosphate Phosphorus (mg/L),Dissolved Oxygen (mg/L),-0.3410531048626221,0.3410531048626221,Weak
+4,Orthophosphate Phosphorus (mg/L),E. coli (cfu/100mL),0.1966041186978243,0.1966041186978243,Very Weak
+4,Orthophosphate Phosphorus (mg/L),Turbidity (NTU),-0.09063588948837141,0.09063588948837141,Very Weak
+4,Orthophosphate Phosphorus (mg/L),pH,-0.07393731428120973,0.07393731428120973,Very Weak
+4,Orthophosphate Phosphorus (mg/L),Temperature (°C),-0.21068850399377126,0.21068850399377126,Weak
+4,Orthophosphate Phosphorus (mg/L),Salinity (psu),0.14159342122225124,0.14159342122225124,Very Weak
+4,Total Inorganic Nitrogen (mg/L),Chlorophyll-a (μg/L),-0.06639894200928291,0.06639894200928291,Very Weak
+4,Total Inorganic Nitrogen (mg/L),Dissolved Oxygen (%saturation),-0.2628327487708198,0.2628327487708198,Weak
+4,Total Inorganic Nitrogen (mg/L),Dissolved Oxygen (mg/L),-0.23973482678809993,0.23973482678809993,Weak
+4,Total Inorganic Nitrogen (mg/L),E. coli (cfu/100mL),0.19871307464132457,0.19871307464132457,Very Weak
+4,Total Inorganic Nitrogen (mg/L),Turbidity (NTU),-0.05787018252695323,0.05787018252695323,Very Weak
+4,Total Inorganic Nitrogen (mg/L),pH,-0.08241656283409303,0.08241656283409303,Very Weak
+4,Total Inorganic Nitrogen (mg/L),Temperature (°C),0.011702631084311578,0.011702631084311578,Very Weak
+4,Total Inorganic Nitrogen (mg/L),Salinity (psu),-0.35980592268907857,0.35980592268907857,Weak
+4,Chlorophyll-a (μg/L),Dissolved Oxygen (%saturation),0.5068871506271175,0.5068871506271175,Moderate
+4,Chlorophyll-a (μg/L),Dissolved Oxygen (mg/L),0.3874504262961132,0.3874504262961132,Weak
+4,Chlorophyll-a (μg/L),E. coli (cfu/100mL),0.011507824756072519,0.011507824756072519,Very Weak
+4,Chlorophyll-a (μg/L),Turbidity (NTU),0.021568769291522308,0.021568769291522308,Very Weak
+4,Chlorophyll-a (μg/L),pH,0.3104108660602893,0.3104108660602893,Weak
+4,Chlorophyll-a (μg/L),Temperature (°C),0.3263192868318023,0.3263192868318023,Weak
+4,Chlorophyll-a (μg/L),Salinity (psu),-0.3649990926626578,0.3649990926626578,Weak
+4,Dissolved Oxygen (%saturation),Dissolved Oxygen (mg/L),0.9304352592466892,0.9304352592466892,Very Strong
+4,Dissolved Oxygen (%saturation),E. coli (cfu/100mL),-0.15974614864406594,0.15974614864406594,Very Weak
+4,Dissolved Oxygen (%saturation),Turbidity (NTU),0.011349589866690095,0.011349589866690095,Very Weak
+4,Dissolved Oxygen (%saturation),pH,0.2888027464683172,0.2888027464683172,Weak
+4,Dissolved Oxygen (%saturation),Temperature (°C),0.1548580165857238,0.1548580165857238,Very Weak
+4,Dissolved Oxygen (%saturation),Salinity (psu),-0.22694047612304613,0.22694047612304613,Weak
+4,Dissolved Oxygen (mg/L),E. coli (cfu/100mL),-0.15784698062306654,0.15784698062306654,Very Weak
+4,Dissolved Oxygen (mg/L),Turbidity (NTU),-0.03857156634725063,0.03857156634725063,Very Weak
+4,Dissolved Oxygen (mg/L),pH,0.25388407305133553,0.25388407305133553,Weak
+4,Dissolved Oxygen (mg/L),Temperature (°C),-0.19377740379574918,0.19377740379574918,Very Weak
+4,Dissolved Oxygen (mg/L),Salinity (psu),-0.12337041117030778,0.12337041117030778,Very Weak
+4,E. coli (cfu/100mL),Turbidity (NTU),0.0859362302406199,0.0859362302406199,Very Weak
+4,E. coli (cfu/100mL),pH,0.008019057234302672,0.008019057234302672,Very Weak
+4,E. coli (cfu/100mL),Temperature (°C),0.017974881032146627,0.017974881032146627,Very Weak
+4,E. coli (cfu/100mL),Salinity (psu),-0.20819721619343076,0.20819721619343076,Weak
+4,Turbidity (NTU),pH,-0.058348049220935366,0.058348049220935366,Very Weak
+4,Turbidity (NTU),Temperature (°C),0.12394161871972983,0.12394161871972983,Very Weak
+4,Turbidity (NTU),Salinity (psu),-0.03987737351331341,0.03987737351331341,Very Weak
+4,pH,Temperature (°C),0.12907026912910666,0.12907026912910666,Very Weak
+4,pH,Salinity (psu),-0.22137707000162063,0.22137707000162063,Weak
+4,Temperature (°C),Salinity (psu),-0.40095294588174135,0.40095294588174135,Moderate
+5,5-day Biochemical Oxygen Demand (mg/L),Suspended Solids (mg/L),0.4870748626694556,0.4870748626694556,Moderate
+5,5-day Biochemical Oxygen Demand (mg/L),Total Phosphorus (mg/L),0.5469596947862352,0.5469596947862352,Moderate
+5,5-day Biochemical Oxygen Demand (mg/L),Total Nitrogen (mg/L),0.6365534621569016,0.6365534621569016,Strong
+5,5-day Biochemical Oxygen Demand (mg/L),Ammonia Nitrogen (mg/L),0.6023093989924042,0.6023093989924042,Strong
+5,5-day Biochemical Oxygen Demand (mg/L),Orthophosphate Phosphorus (mg/L),0.4769305157554581,0.4769305157554581,Moderate
+5,5-day Biochemical Oxygen Demand (mg/L),Total Inorganic Nitrogen (mg/L),0.6039933670230316,0.6039933670230316,Strong
+5,5-day Biochemical Oxygen Demand (mg/L),Chlorophyll-a (μg/L),0.45982091116700224,0.45982091116700224,Moderate
+5,5-day Biochemical Oxygen Demand (mg/L),Dissolved Oxygen (%saturation),-0.23254673771337595,0.23254673771337595,Weak
+5,5-day Biochemical Oxygen Demand (mg/L),Dissolved Oxygen (mg/L),-0.19271986715487932,0.19271986715487932,Very Weak
+5,5-day Biochemical Oxygen Demand (mg/L),E. coli (cfu/100mL),0.4686839290893969,0.4686839290893969,Moderate
+5,5-day Biochemical Oxygen Demand (mg/L),Turbidity (NTU),0.31961373819827293,0.31961373819827293,Weak
+5,5-day Biochemical Oxygen Demand (mg/L),pH,-0.1622519621529177,0.1622519621529177,Very Weak
+5,5-day Biochemical Oxygen Demand (mg/L),Temperature (°C),-0.016208185622968337,0.016208185622968337,Very Weak
+5,5-day Biochemical Oxygen Demand (mg/L),Salinity (psu),-0.23407807811228004,0.23407807811228004,Weak
+5,Suspended Solids (mg/L),Total Phosphorus (mg/L),0.5106128758452009,0.5106128758452009,Moderate
+5,Suspended Solids (mg/L),Total Nitrogen (mg/L),0.4700627885670155,0.4700627885670155,Moderate
+5,Suspended Solids (mg/L),Ammonia Nitrogen (mg/L),0.42605310406171887,0.42605310406171887,Moderate
+5,Suspended Solids (mg/L),Orthophosphate Phosphorus (mg/L),0.3898671747226875,0.3898671747226875,Weak
+5,Suspended Solids (mg/L),Total Inorganic Nitrogen (mg/L),0.4522300421766442,0.4522300421766442,Moderate
+5,Suspended Solids (mg/L),Chlorophyll-a (μg/L),0.15413411985851921,0.15413411985851921,Very Weak
+5,Suspended Solids (mg/L),Dissolved Oxygen (%saturation),-0.33431409236137144,0.33431409236137144,Weak
+5,Suspended Solids (mg/L),Dissolved Oxygen (mg/L),-0.28612183083579446,0.28612183083579446,Weak
+5,Suspended Solids (mg/L),E. coli (cfu/100mL),0.16871739141636738,0.16871739141636738,Very Weak
+5,Suspended Solids (mg/L),Turbidity (NTU),0.5996334570066327,0.5996334570066327,Moderate
+5,Suspended Solids (mg/L),pH,-0.22898803845822194,0.22898803845822194,Weak
+5,Suspended Solids (mg/L),Temperature (°C),-0.0724770948868016,0.0724770948868016,Very Weak
+5,Suspended Solids (mg/L),Salinity (psu),-0.16146210088678303,0.16146210088678303,Very Weak
+5,Total Phosphorus (mg/L),Total Nitrogen (mg/L),0.8032494270614213,0.8032494270614213,Very Strong
+5,Total Phosphorus (mg/L),Ammonia Nitrogen (mg/L),0.7972919625520413,0.7972919625520413,Strong
+5,Total Phosphorus (mg/L),Orthophosphate Phosphorus (mg/L),0.9295444544837571,0.9295444544837571,Very Strong
+5,Total Phosphorus (mg/L),Total Inorganic Nitrogen (mg/L),0.7848045926154693,0.7848045926154693,Strong
+5,Total Phosphorus (mg/L),Chlorophyll-a (μg/L),0.19491201545642114,0.19491201545642114,Very Weak
+5,Total Phosphorus (mg/L),Dissolved Oxygen (%saturation),-0.42809347340404663,0.42809347340404663,Moderate
+5,Total Phosphorus (mg/L),Dissolved Oxygen (mg/L),-0.3772401853164804,0.3772401853164804,Weak
+5,Total Phosphorus (mg/L),E. coli (cfu/100mL),0.39093744265331104,0.39093744265331104,Weak
+5,Total Phosphorus (mg/L),Turbidity (NTU),0.3722336730229541,0.3722336730229541,Weak
+5,Total Phosphorus (mg/L),pH,-0.2795482663538179,0.2795482663538179,Weak
+5,Total Phosphorus (mg/L),Temperature (°C),-0.04847064671114074,0.04847064671114074,Very Weak
+5,Total Phosphorus (mg/L),Salinity (psu),-0.19144441752207672,0.19144441752207672,Very Weak
+5,Total Nitrogen (mg/L),Ammonia Nitrogen (mg/L),0.9429436093599881,0.9429436093599881,Very Strong
+5,Total Nitrogen (mg/L),Orthophosphate Phosphorus (mg/L),0.8147437725465586,0.8147437725465586,Very Strong
+5,Total Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.9750541293057058,0.9750541293057058,Very Strong
+5,Total Nitrogen (mg/L),Chlorophyll-a (μg/L),0.27082605375328567,0.27082605375328567,Weak
+5,Total Nitrogen (mg/L),Dissolved Oxygen (%saturation),-0.5150090895445967,0.5150090895445967,Moderate
+5,Total Nitrogen (mg/L),Dissolved Oxygen (mg/L),-0.44929614163547466,0.44929614163547466,Moderate
+5,Total Nitrogen (mg/L),E. coli (cfu/100mL),0.45777462512309225,0.45777462512309225,Moderate
+5,Total Nitrogen (mg/L),Turbidity (NTU),0.3285085141549289,0.3285085141549289,Weak
+5,Total Nitrogen (mg/L),pH,-0.3965310583038995,0.3965310583038995,Weak
+5,Total Nitrogen (mg/L),Temperature (°C),-0.029128210504451763,0.029128210504451763,Very Weak
+5,Total Nitrogen (mg/L),Salinity (psu),-0.34243515050149353,0.34243515050149353,Weak
+5,Ammonia Nitrogen (mg/L),Orthophosphate Phosphorus (mg/L),0.8308446309929366,0.8308446309929366,Very Strong
+5,Ammonia Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.9555126989742425,0.9555126989742425,Very Strong
+5,Ammonia Nitrogen (mg/L),Chlorophyll-a (μg/L),0.22333812823194912,0.22333812823194912,Weak
+5,Ammonia Nitrogen (mg/L),Dissolved Oxygen (%saturation),-0.505615662080076,0.505615662080076,Moderate
+5,Ammonia Nitrogen (mg/L),Dissolved Oxygen (mg/L),-0.435887828626959,0.435887828626959,Moderate
+5,Ammonia Nitrogen (mg/L),E. coli (cfu/100mL),0.430015127940925,0.430015127940925,Moderate
+5,Ammonia Nitrogen (mg/L),Turbidity (NTU),0.309523491148986,0.309523491148986,Weak
+5,Ammonia Nitrogen (mg/L),pH,-0.337589756349966,0.337589756349966,Weak
+5,Ammonia Nitrogen (mg/L),Temperature (°C),-0.1209567661684239,0.1209567661684239,Very Weak
+5,Ammonia Nitrogen (mg/L),Salinity (psu),-0.1838519547232958,0.1838519547232958,Very Weak
+5,Orthophosphate Phosphorus (mg/L),Total Inorganic Nitrogen (mg/L),0.813566429641917,0.813566429641917,Very Strong
+5,Orthophosphate Phosphorus (mg/L),Chlorophyll-a (μg/L),0.13235159775892477,0.13235159775892477,Very Weak
+5,Orthophosphate Phosphorus (mg/L),Dissolved Oxygen (%saturation),-0.45363060659440896,0.45363060659440896,Moderate
+5,Orthophosphate Phosphorus (mg/L),Dissolved Oxygen (mg/L),-0.40251257661836976,0.40251257661836976,Moderate
+5,Orthophosphate Phosphorus (mg/L),E. coli (cfu/100mL),0.3085632334021197,0.3085632334021197,Weak
+5,Orthophosphate Phosphorus (mg/L),Turbidity (NTU),0.3193734980492691,0.3193734980492691,Weak
+5,Orthophosphate Phosphorus (mg/L),pH,-0.29725702925056346,0.29725702925056346,Weak
+5,Orthophosphate Phosphorus (mg/L),Temperature (°C),-0.04832156764525714,0.04832156764525714,Very Weak
+5,Orthophosphate Phosphorus (mg/L),Salinity (psu),-0.1757335915412679,0.1757335915412679,Very Weak
+5,Total Inorganic Nitrogen (mg/L),Chlorophyll-a (μg/L),0.21738560725364803,0.21738560725364803,Weak
+5,Total Inorganic Nitrogen (mg/L),Dissolved Oxygen (%saturation),-0.531230615750024,0.531230615750024,Moderate
+5,Total Inorganic Nitrogen (mg/L),Dissolved Oxygen (mg/L),-0.466076970706429,0.466076970706429,Moderate
+5,Total Inorganic Nitrogen (mg/L),E. coli (cfu/100mL),0.39972567490694827,0.39972567490694827,Weak
+5,Total Inorganic Nitrogen (mg/L),Turbidity (NTU),0.32316681890753257,0.32316681890753257,Weak
+5,Total Inorganic Nitrogen (mg/L),pH,-0.4136796409959251,0.4136796409959251,Moderate
+5,Total Inorganic Nitrogen (mg/L),Temperature (°C),-0.035488871279165266,0.035488871279165266,Very Weak
+5,Total Inorganic Nitrogen (mg/L),Salinity (psu),-0.3279426306150243,0.3279426306150243,Weak
+5,Chlorophyll-a (μg/L),Dissolved Oxygen (%saturation),0.19138220995073593,0.19138220995073593,Very Weak
+5,Chlorophyll-a (μg/L),Dissolved Oxygen (mg/L),0.20418490358193073,0.20418490358193073,Weak
+5,Chlorophyll-a (μg/L),E. coli (cfu/100mL),0.07777906753910385,0.07777906753910385,Very Weak
+5,Chlorophyll-a (μg/L),Turbidity (NTU),0.10160026430855458,0.10160026430855458,Very Weak
+5,Chlorophyll-a (μg/L),pH,0.09120816198551163,0.09120816198551163,Very Weak
+5,Chlorophyll-a (μg/L),Temperature (°C),0.016795217053546183,0.016795217053546183,Very Weak
+5,Chlorophyll-a (μg/L),Salinity (psu),-0.13508903147494952,0.13508903147494952,Very Weak
+5,Dissolved Oxygen (%saturation),Dissolved Oxygen (mg/L),0.967614203637205,0.967614203637205,Very Strong
+5,Dissolved Oxygen (%saturation),E. coli (cfu/100mL),-0.2688454107420684,0.2688454107420684,Weak
+5,Dissolved Oxygen (%saturation),Turbidity (NTU),-0.23733104158986235,0.23733104158986235,Weak
+5,Dissolved Oxygen (%saturation),pH,0.4909966952701688,0.4909966952701688,Moderate
+5,Dissolved Oxygen (%saturation),Temperature (°C),-0.1471337964637858,0.1471337964637858,Very Weak
+5,Dissolved Oxygen (%saturation),Salinity (psu),0.30308865788495926,0.30308865788495926,Weak
+5,Dissolved Oxygen (mg/L),E. coli (cfu/100mL),-0.24853342326249436,0.24853342326249436,Weak
+5,Dissolved Oxygen (mg/L),Turbidity (NTU),-0.2201896062438584,0.2201896062438584,Weak
+5,Dissolved Oxygen (mg/L),pH,0.45412829067292226,0.45412829067292226,Moderate
+5,Dissolved Oxygen (mg/L),Temperature (°C),-0.33510830820163295,0.33510830820163295,Weak
+5,Dissolved Oxygen (mg/L),Salinity (psu),0.3538591456454185,0.3538591456454185,Weak
+5,E. coli (cfu/100mL),Turbidity (NTU),0.11983597608238919,0.11983597608238919,Very Weak
+5,E. coli (cfu/100mL),pH,-0.16670486045354077,0.16670486045354077,Very Weak
+5,E. coli (cfu/100mL),Temperature (°C),0.0463138237562046,0.0463138237562046,Very Weak
+5,E. coli (cfu/100mL),Salinity (psu),-0.20444155520920007,0.20444155520920007,Weak
+5,Turbidity (NTU),pH,-0.1261840453552876,0.1261840453552876,Very Weak
+5,Turbidity (NTU),Temperature (°C),0.01586197235882373,0.01586197235882373,Very Weak
+5,Turbidity (NTU),Salinity (psu),-0.15842083326220072,0.15842083326220072,Very Weak
+5,pH,Temperature (°C),-0.10016700604537214,0.10016700604537214,Very Weak
+5,pH,Salinity (psu),0.3077396669502488,0.3077396669502488,Weak
+5,Temperature (°C),Salinity (psu),-0.6745626362989954,0.6745626362989954,Strong
+6,5-day Biochemical Oxygen Demand (mg/L),Suspended Solids (mg/L),0.21592040041212593,0.21592040041212593,Weak
+6,5-day Biochemical Oxygen Demand (mg/L),Total Phosphorus (mg/L),0.16450553802553652,0.16450553802553652,Very Weak
+6,5-day Biochemical Oxygen Demand (mg/L),Total Nitrogen (mg/L),0.14941549158043643,0.14941549158043643,Very Weak
+6,5-day Biochemical Oxygen Demand (mg/L),Ammonia Nitrogen (mg/L),0.14629465430793853,0.14629465430793853,Very Weak
+6,5-day Biochemical Oxygen Demand (mg/L),Orthophosphate Phosphorus (mg/L),-0.07511570471619301,0.07511570471619301,Very Weak
+6,5-day Biochemical Oxygen Demand (mg/L),Total Inorganic Nitrogen (mg/L),0.03527160765275417,0.03527160765275417,Very Weak
+6,5-day Biochemical Oxygen Demand (mg/L),Chlorophyll-a (μg/L),0.7538711345637933,0.7538711345637933,Strong
+6,5-day Biochemical Oxygen Demand (mg/L),Dissolved Oxygen (%saturation),0.43282123589744964,0.43282123589744964,Moderate
+6,5-day Biochemical Oxygen Demand (mg/L),Dissolved Oxygen (mg/L),0.3360278901077393,0.3360278901077393,Weak
+6,5-day Biochemical Oxygen Demand (mg/L),E. coli (cfu/100mL),0.10964589582312083,0.10964589582312083,Very Weak
+6,5-day Biochemical Oxygen Demand (mg/L),Turbidity (NTU),0.10348329311695031,0.10348329311695031,Very Weak
+6,5-day Biochemical Oxygen Demand (mg/L),pH,0.29070400830614884,0.29070400830614884,Weak
+6,5-day Biochemical Oxygen Demand (mg/L),Temperature (°C),0.13800334200894007,0.13800334200894007,Very Weak
+6,5-day Biochemical Oxygen Demand (mg/L),Salinity (psu),-0.17639112821665748,0.17639112821665748,Very Weak
+6,Suspended Solids (mg/L),Total Phosphorus (mg/L),0.055050278168066534,0.055050278168066534,Very Weak
+6,Suspended Solids (mg/L),Total Nitrogen (mg/L),0.08559169690360365,0.08559169690360365,Very Weak
+6,Suspended Solids (mg/L),Ammonia Nitrogen (mg/L),0.01235442156530157,0.01235442156530157,Very Weak
+6,Suspended Solids (mg/L),Orthophosphate Phosphorus (mg/L),-0.011368029986060714,0.011368029986060714,Very Weak
+6,Suspended Solids (mg/L),Total Inorganic Nitrogen (mg/L),0.02416866284831932,0.02416866284831932,Very Weak
+6,Suspended Solids (mg/L),Chlorophyll-a (μg/L),0.24342443849103607,0.24342443849103607,Weak
+6,Suspended Solids (mg/L),Dissolved Oxygen (%saturation),0.039773325095330235,0.039773325095330235,Very Weak
+6,Suspended Solids (mg/L),Dissolved Oxygen (mg/L),0.04812296670783818,0.04812296670783818,Very Weak
+6,Suspended Solids (mg/L),E. coli (cfu/100mL),0.1262485216530161,0.1262485216530161,Very Weak
+6,Suspended Solids (mg/L),Turbidity (NTU),0.04654507791548113,0.04654507791548113,Very Weak
+6,Suspended Solids (mg/L),pH,-0.06304663689710704,0.06304663689710704,Very Weak
+6,Suspended Solids (mg/L),Temperature (°C),-0.050623254002609044,0.050623254002609044,Very Weak
+6,Suspended Solids (mg/L),Salinity (psu),-0.007019196165861575,0.007019196165861575,Very Weak
+6,Total Phosphorus (mg/L),Total Nitrogen (mg/L),0.27696944451016536,0.27696944451016536,Weak
+6,Total Phosphorus (mg/L),Ammonia Nitrogen (mg/L),0.23668683388753375,0.23668683388753375,Weak
+6,Total Phosphorus (mg/L),Orthophosphate Phosphorus (mg/L),0.274270779071358,0.274270779071358,Weak
+6,Total Phosphorus (mg/L),Total Inorganic Nitrogen (mg/L),0.14664036067138492,0.14664036067138492,Very Weak
+6,Total Phosphorus (mg/L),Chlorophyll-a (μg/L),0.06580436626045867,0.06580436626045867,Very Weak
+6,Total Phosphorus (mg/L),Dissolved Oxygen (%saturation),0.11384749710792692,0.11384749710792692,Very Weak
+6,Total Phosphorus (mg/L),Dissolved Oxygen (mg/L),0.13132070076840693,0.13132070076840693,Very Weak
+6,Total Phosphorus (mg/L),E. coli (cfu/100mL),0.049834140708866784,0.049834140708866784,Very Weak
+6,Total Phosphorus (mg/L),Turbidity (NTU),-0.11558196224503534,0.11558196224503534,Very Weak
+6,Total Phosphorus (mg/L),pH,0.00585993465094182,0.00585993465094182,Very Weak
+6,Total Phosphorus (mg/L),Temperature (°C),0.003346891117186748,0.003346891117186748,Very Weak
+6,Total Phosphorus (mg/L),Salinity (psu),-0.0413658478885803,0.0413658478885803,Very Weak
+6,Total Nitrogen (mg/L),Ammonia Nitrogen (mg/L),0.2575101845465261,0.2575101845465261,Weak
+6,Total Nitrogen (mg/L),Orthophosphate Phosphorus (mg/L),0.19895741888607044,0.19895741888607044,Very Weak
+6,Total Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.29828673636955744,0.29828673636955744,Weak
+6,Total Nitrogen (mg/L),Chlorophyll-a (μg/L),0.13845282908036913,0.13845282908036913,Very Weak
+6,Total Nitrogen (mg/L),Dissolved Oxygen (%saturation),0.1157787825772758,0.1157787825772758,Very Weak
+6,Total Nitrogen (mg/L),Dissolved Oxygen (mg/L),0.17514224471121664,0.17514224471121664,Very Weak
+6,Total Nitrogen (mg/L),E. coli (cfu/100mL),0.07432976790347642,0.07432976790347642,Very Weak
+6,Total Nitrogen (mg/L),Turbidity (NTU),-0.020374597086132512,0.020374597086132512,Very Weak
+6,Total Nitrogen (mg/L),pH,-0.11720521746427387,0.11720521746427387,Very Weak
+6,Total Nitrogen (mg/L),Temperature (°C),-0.09418211045158126,0.09418211045158126,Very Weak
+6,Total Nitrogen (mg/L),Salinity (psu),-0.08266404447178194,0.08266404447178194,Very Weak
+6,Ammonia Nitrogen (mg/L),Orthophosphate Phosphorus (mg/L),0.43375218386288517,0.43375218386288517,Moderate
+6,Ammonia Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.7541646261337684,0.7541646261337684,Strong
+6,Ammonia Nitrogen (mg/L),Chlorophyll-a (μg/L),0.04081416299927711,0.04081416299927711,Very Weak
+6,Ammonia Nitrogen (mg/L),Dissolved Oxygen (%saturation),-0.09702151932252281,0.09702151932252281,Very Weak
+6,Ammonia Nitrogen (mg/L),Dissolved Oxygen (mg/L),-0.06483767617157797,0.06483767617157797,Very Weak
+6,Ammonia Nitrogen (mg/L),E. coli (cfu/100mL),0.19607035197766273,0.19607035197766273,Very Weak
+6,Ammonia Nitrogen (mg/L),Turbidity (NTU),0.026667599850136704,0.026667599850136704,Very Weak
+6,Ammonia Nitrogen (mg/L),pH,0.013170055654085192,0.013170055654085192,Very Weak
+6,Ammonia Nitrogen (mg/L),Temperature (°C),-0.12135494351989956,0.12135494351989956,Very Weak
+6,Ammonia Nitrogen (mg/L),Salinity (psu),-0.019447068172763194,0.019447068172763194,Very Weak
+6,Orthophosphate Phosphorus (mg/L),Total Inorganic Nitrogen (mg/L),0.37650456061135257,0.37650456061135257,Weak
+6,Orthophosphate Phosphorus (mg/L),Chlorophyll-a (μg/L),-0.16553076079721102,0.16553076079721102,Very Weak
+6,Orthophosphate Phosphorus (mg/L),Dissolved Oxygen (%saturation),-0.1301368189689048,0.1301368189689048,Very Weak
+6,Orthophosphate Phosphorus (mg/L),Dissolved Oxygen (mg/L),-0.04857657464135319,0.04857657464135319,Very Weak
+6,Orthophosphate Phosphorus (mg/L),E. coli (cfu/100mL),0.12016513547690522,0.12016513547690522,Very Weak
+6,Orthophosphate Phosphorus (mg/L),Turbidity (NTU),-0.05517991205913735,0.05517991205913735,Very Weak
+6,Orthophosphate Phosphorus (mg/L),pH,0.018985962711689987,0.018985962711689987,Very Weak
+6,Orthophosphate Phosphorus (mg/L),Temperature (°C),-0.12241165937940883,0.12241165937940883,Very Weak
+6,Orthophosphate Phosphorus (mg/L),Salinity (psu),-0.04441107828021741,0.04441107828021741,Very Weak
+6,Total Inorganic Nitrogen (mg/L),Chlorophyll-a (μg/L),0.03810472779167181,0.03810472779167181,Very Weak
+6,Total Inorganic Nitrogen (mg/L),Dissolved Oxygen (%saturation),-0.1442664436406367,0.1442664436406367,Very Weak
+6,Total Inorganic Nitrogen (mg/L),Dissolved Oxygen (mg/L),-0.09397134648581026,0.09397134648581026,Very Weak
+6,Total Inorganic Nitrogen (mg/L),E. coli (cfu/100mL),0.18385240415989404,0.18385240415989404,Very Weak
+6,Total Inorganic Nitrogen (mg/L),Turbidity (NTU),0.010051847180581384,0.010051847180581384,Very Weak
+6,Total Inorganic Nitrogen (mg/L),pH,-0.08139672663207032,0.08139672663207032,Very Weak
+6,Total Inorganic Nitrogen (mg/L),Temperature (°C),-0.10053602113362325,0.10053602113362325,Very Weak
+6,Total Inorganic Nitrogen (mg/L),Salinity (psu),-0.26053065964674177,0.26053065964674177,Weak
+6,Chlorophyll-a (μg/L),Dissolved Oxygen (%saturation),0.3362912603597442,0.3362912603597442,Weak
+6,Chlorophyll-a (μg/L),Dissolved Oxygen (mg/L),0.23997284417573383,0.23997284417573383,Weak
+6,Chlorophyll-a (μg/L),E. coli (cfu/100mL),0.05808342598384992,0.05808342598384992,Very Weak
+6,Chlorophyll-a (μg/L),Turbidity (NTU),0.17078583690244584,0.17078583690244584,Very Weak
+6,Chlorophyll-a (μg/L),pH,0.21876491839819548,0.21876491839819548,Weak
+6,Chlorophyll-a (μg/L),Temperature (°C),0.1698447329769267,0.1698447329769267,Very Weak
+6,Chlorophyll-a (μg/L),Salinity (psu),-0.18082733834321169,0.18082733834321169,Very Weak
+6,Dissolved Oxygen (%saturation),Dissolved Oxygen (mg/L),0.8977390923413416,0.8977390923413416,Very Strong
+6,Dissolved Oxygen (%saturation),E. coli (cfu/100mL),0.008389589426058473,0.008389589426058473,Very Weak
+6,Dissolved Oxygen (%saturation),Turbidity (NTU),0.009274088877589282,0.009274088877589282,Very Weak
+6,Dissolved Oxygen (%saturation),pH,0.27875784144990223,0.27875784144990223,Weak
+6,Dissolved Oxygen (%saturation),Temperature (°C),0.12029673958134735,0.12029673958134735,Very Weak
+6,Dissolved Oxygen (%saturation),Salinity (psu),-0.13860941036993912,0.13860941036993912,Very Weak
+6,Dissolved Oxygen (mg/L),E. coli (cfu/100mL),-0.022614458718430087,0.022614458718430087,Very Weak
+6,Dissolved Oxygen (mg/L),Turbidity (NTU),-0.012255917711684664,0.012255917711684664,Very Weak
+6,Dissolved Oxygen (mg/L),pH,0.19410994277243618,0.19410994277243618,Very Weak
+6,Dissolved Oxygen (mg/L),Temperature (°C),-0.25678253100298726,0.25678253100298726,Weak
+6,Dissolved Oxygen (mg/L),Salinity (psu),-0.016525513375204724,0.016525513375204724,Very Weak
+6,E. coli (cfu/100mL),Turbidity (NTU),0.05657523203891636,0.05657523203891636,Very Weak
+6,E. coli (cfu/100mL),pH,0.051598485357395946,0.051598485357395946,Very Weak
+6,E. coli (cfu/100mL),Temperature (°C),0.06463133849584614,0.06463133849584614,Very Weak
+6,E. coli (cfu/100mL),Salinity (psu),-0.15889160639272054,0.15889160639272054,Very Weak
+6,Turbidity (NTU),pH,-0.004046982326686199,0.004046982326686199,Very Weak
+6,Turbidity (NTU),Temperature (°C),-0.015158349583811771,0.015158349583811771,Very Weak
+6,Turbidity (NTU),Salinity (psu),0.045100805011737966,0.045100805011737966,Very Weak
+6,pH,Temperature (°C),0.2235713204320183,0.2235713204320183,Weak
+6,pH,Salinity (psu),-0.2843983186145124,0.2843983186145124,Weak
+6,Temperature (°C),Salinity (psu),-0.44054480533349144,0.44054480533349144,Moderate
+7,5-day Biochemical Oxygen Demand (mg/L),Suspended Solids (mg/L),-0.08118367208802778,0.08118367208802778,Very Weak
+7,5-day Biochemical Oxygen Demand (mg/L),Total Phosphorus (mg/L),0.01471792530658854,0.01471792530658854,Very Weak
+7,5-day Biochemical Oxygen Demand (mg/L),Total Nitrogen (mg/L),0.22550520335548968,0.22550520335548968,Weak
+7,5-day Biochemical Oxygen Demand (mg/L),Ammonia Nitrogen (mg/L),-0.09165067551886641,0.09165067551886641,Very Weak
+7,5-day Biochemical Oxygen Demand (mg/L),Orthophosphate Phosphorus (mg/L),-0.14648978498999302,0.14648978498999302,Very Weak
+7,5-day Biochemical Oxygen Demand (mg/L),Total Inorganic Nitrogen (mg/L),0.16996631788093697,0.16996631788093697,Very Weak
+7,5-day Biochemical Oxygen Demand (mg/L),Chlorophyll-a (μg/L),0.647733189119553,0.647733189119553,Strong
+7,5-day Biochemical Oxygen Demand (mg/L),Dissolved Oxygen (%saturation),0.41078391865940317,0.41078391865940317,Moderate
+7,5-day Biochemical Oxygen Demand (mg/L),Dissolved Oxygen (mg/L),0.3608403011846592,0.3608403011846592,Weak
+7,5-day Biochemical Oxygen Demand (mg/L),E. coli (cfu/100mL),-0.027337358022291976,0.027337358022291976,Very Weak
+7,5-day Biochemical Oxygen Demand (mg/L),Turbidity (NTU),-0.024095415264820272,0.024095415264820272,Very Weak
+7,5-day Biochemical Oxygen Demand (mg/L),pH,0.26453043642563834,0.26453043642563834,Weak
+7,5-day Biochemical Oxygen Demand (mg/L),Temperature (°C),0.14577447364351429,0.14577447364351429,Very Weak
+7,5-day Biochemical Oxygen Demand (mg/L),Salinity (psu),-0.2403493704440113,0.2403493704440113,Weak
+7,Suspended Solids (mg/L),Total Phosphorus (mg/L),0.05308248018297266,0.05308248018297266,Very Weak
+7,Suspended Solids (mg/L),Total Nitrogen (mg/L),-0.1738761521682409,0.1738761521682409,Very Weak
+7,Suspended Solids (mg/L),Ammonia Nitrogen (mg/L),-0.08280968668553161,0.08280968668553161,Very Weak
+7,Suspended Solids (mg/L),Orthophosphate Phosphorus (mg/L),-0.015759180896979422,0.015759180896979422,Very Weak
+7,Suspended Solids (mg/L),Total Inorganic Nitrogen (mg/L),-0.21071491496037612,0.21071491496037612,Weak
+7,Suspended Solids (mg/L),Chlorophyll-a (μg/L),-0.06711866774058245,0.06711866774058245,Very Weak
+7,Suspended Solids (mg/L),Dissolved Oxygen (%saturation),-0.013439154784774055,0.013439154784774055,Very Weak
+7,Suspended Solids (mg/L),Dissolved Oxygen (mg/L),0.009025876963516852,0.009025876963516852,Very Weak
+7,Suspended Solids (mg/L),E. coli (cfu/100mL),0.0013002540745582557,0.0013002540745582557,Very Weak
+7,Suspended Solids (mg/L),Turbidity (NTU),0.11052004556553069,0.11052004556553069,Very Weak
+7,Suspended Solids (mg/L),pH,0.07231686476467511,0.07231686476467511,Very Weak
+7,Suspended Solids (mg/L),Temperature (°C),-0.1542518563413254,0.1542518563413254,Very Weak
+7,Suspended Solids (mg/L),Salinity (psu),0.18547193775421392,0.18547193775421392,Very Weak
+7,Total Phosphorus (mg/L),Total Nitrogen (mg/L),0.12937902887378208,0.12937902887378208,Very Weak
+7,Total Phosphorus (mg/L),Ammonia Nitrogen (mg/L),0.0557653835321391,0.0557653835321391,Very Weak
+7,Total Phosphorus (mg/L),Orthophosphate Phosphorus (mg/L),0.31735947863512903,0.31735947863512903,Weak
+7,Total Phosphorus (mg/L),Total Inorganic Nitrogen (mg/L),0.0903613231229532,0.0903613231229532,Very Weak
+7,Total Phosphorus (mg/L),Chlorophyll-a (μg/L),-0.05995358843565336,0.05995358843565336,Very Weak
+7,Total Phosphorus (mg/L),Dissolved Oxygen (%saturation),-0.05088565515287814,0.05088565515287814,Very Weak
+7,Total Phosphorus (mg/L),Dissolved Oxygen (mg/L),-0.04277914883673327,0.04277914883673327,Very Weak
+7,Total Phosphorus (mg/L),E. coli (cfu/100mL),0.03567842126627392,0.03567842126627392,Very Weak
+7,Total Phosphorus (mg/L),Turbidity (NTU),-0.0037874095497546214,0.0037874095497546214,Very Weak
+7,Total Phosphorus (mg/L),pH,-0.08934609382511428,0.08934609382511428,Very Weak
+7,Total Phosphorus (mg/L),Temperature (°C),0.04105111441623756,0.04105111441623756,Very Weak
+7,Total Phosphorus (mg/L),Salinity (psu),-0.06593566742953486,0.06593566742953486,Very Weak
+7,Total Nitrogen (mg/L),Ammonia Nitrogen (mg/L),0.1636853073519408,0.1636853073519408,Very Weak
+7,Total Nitrogen (mg/L),Orthophosphate Phosphorus (mg/L),0.38939571566013015,0.38939571566013015,Weak
+7,Total Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.8938066468848673,0.8938066468848673,Very Strong
+7,Total Nitrogen (mg/L),Chlorophyll-a (μg/L),0.23176965699357596,0.23176965699357596,Weak
+7,Total Nitrogen (mg/L),Dissolved Oxygen (%saturation),0.024627131861141287,0.024627131861141287,Very Weak
+7,Total Nitrogen (mg/L),Dissolved Oxygen (mg/L),0.005246645617410925,0.005246645617410925,Very Weak
+7,Total Nitrogen (mg/L),E. coli (cfu/100mL),-0.028088892348146682,0.028088892348146682,Very Weak
+7,Total Nitrogen (mg/L),Turbidity (NTU),0.0048426781514039645,0.0048426781514039645,Very Weak
+7,Total Nitrogen (mg/L),pH,-0.14413434094049957,0.14413434094049957,Very Weak
+7,Total Nitrogen (mg/L),Temperature (°C),0.4454052480546995,0.4454052480546995,Moderate
+7,Total Nitrogen (mg/L),Salinity (psu),-0.7780919798657205,0.7780919798657205,Strong
+7,Ammonia Nitrogen (mg/L),Orthophosphate Phosphorus (mg/L),0.35249901482437734,0.35249901482437734,Weak
+7,Ammonia Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.1950167637744847,0.1950167637744847,Very Weak
+7,Ammonia Nitrogen (mg/L),Chlorophyll-a (μg/L),-0.19170378071797103,0.19170378071797103,Very Weak
+7,Ammonia Nitrogen (mg/L),Dissolved Oxygen (%saturation),-0.12122233371768346,0.12122233371768346,Very Weak
+7,Ammonia Nitrogen (mg/L),Dissolved Oxygen (mg/L),-0.006306077971823354,0.006306077971823354,Very Weak
+7,Ammonia Nitrogen (mg/L),E. coli (cfu/100mL),0.09994440204385488,0.09994440204385488,Very Weak
+7,Ammonia Nitrogen (mg/L),Turbidity (NTU),0.03066040706847382,0.03066040706847382,Very Weak
+7,Ammonia Nitrogen (mg/L),pH,-0.15085407564271908,0.15085407564271908,Very Weak
+7,Ammonia Nitrogen (mg/L),Temperature (°C),-0.3039530528198302,0.3039530528198302,Weak
+7,Ammonia Nitrogen (mg/L),Salinity (psu),0.0778357679031465,0.0778357679031465,Very Weak
+7,Orthophosphate Phosphorus (mg/L),Total Inorganic Nitrogen (mg/L),0.4409092587740064,0.4409092587740064,Moderate
+7,Orthophosphate Phosphorus (mg/L),Chlorophyll-a (μg/L),-0.2574608011743727,0.2574608011743727,Weak
+7,Orthophosphate Phosphorus (mg/L),Dissolved Oxygen (%saturation),-0.2959141406396274,0.2959141406396274,Weak
+7,Orthophosphate Phosphorus (mg/L),Dissolved Oxygen (mg/L),-0.2805989923405573,0.2805989923405573,Weak
+7,Orthophosphate Phosphorus (mg/L),E. coli (cfu/100mL),0.06357882503813717,0.06357882503813717,Very Weak
+7,Orthophosphate Phosphorus (mg/L),Turbidity (NTU),0.06242677625238892,0.06242677625238892,Very Weak
+7,Orthophosphate Phosphorus (mg/L),pH,-0.21304978617976866,0.21304978617976866,Weak
+7,Orthophosphate Phosphorus (mg/L),Temperature (°C),0.18775246348394153,0.18775246348394153,Very Weak
+7,Orthophosphate Phosphorus (mg/L),Salinity (psu),-0.3140567563198472,0.3140567563198472,Weak
+7,Total Inorganic Nitrogen (mg/L),Chlorophyll-a (μg/L),0.1800230988985982,0.1800230988985982,Very Weak
+7,Total Inorganic Nitrogen (mg/L),Dissolved Oxygen (%saturation),-0.03196547066737958,0.03196547066737958,Very Weak
+7,Total Inorganic Nitrogen (mg/L),Dissolved Oxygen (mg/L),-0.061281152648280116,0.061281152648280116,Very Weak
+7,Total Inorganic Nitrogen (mg/L),E. coli (cfu/100mL),-0.033640137265560456,0.033640137265560456,Very Weak
+7,Total Inorganic Nitrogen (mg/L),Turbidity (NTU),0.029708832130412595,0.029708832130412595,Very Weak
+7,Total Inorganic Nitrogen (mg/L),pH,-0.1698452307462639,0.1698452307462639,Very Weak
+7,Total Inorganic Nitrogen (mg/L),Temperature (°C),0.518969716272863,0.518969716272863,Moderate
+7,Total Inorganic Nitrogen (mg/L),Salinity (psu),-0.8497573726538019,0.8497573726538019,Very Strong
+7,Chlorophyll-a (μg/L),Dissolved Oxygen (%saturation),0.4824524135431692,0.4824524135431692,Moderate
+7,Chlorophyll-a (μg/L),Dissolved Oxygen (mg/L),0.39112403472374163,0.39112403472374163,Weak
+7,Chlorophyll-a (μg/L),E. coli (cfu/100mL),-0.039287025662814265,0.039287025662814265,Very Weak
+7,Chlorophyll-a (μg/L),Turbidity (NTU),-0.028341293669582945,0.028341293669582945,Very Weak
+7,Chlorophyll-a (μg/L),pH,0.3104622402595473,0.3104622402595473,Weak
+7,Chlorophyll-a (μg/L),Temperature (°C),0.2581805667471209,0.2581805667471209,Weak
+7,Chlorophyll-a (μg/L),Salinity (psu),-0.2750062548351265,0.2750062548351265,Weak
+7,Dissolved Oxygen (%saturation),Dissolved Oxygen (mg/L),0.9452930695102196,0.9452930695102196,Very Strong
+7,Dissolved Oxygen (%saturation),E. coli (cfu/100mL),-0.09150041540886486,0.09150041540886486,Very Weak
+7,Dissolved Oxygen (%saturation),Turbidity (NTU),-0.06156131945932935,0.06156131945932935,Very Weak
+7,Dissolved Oxygen (%saturation),pH,0.28271052515002565,0.28271052515002565,Weak
+7,Dissolved Oxygen (%saturation),Temperature (°C),-0.05937827026280018,0.05937827026280018,Very Weak
+7,Dissolved Oxygen (%saturation),Salinity (psu),-0.03162854837121734,0.03162854837121734,Very Weak
+7,Dissolved Oxygen (mg/L),E. coli (cfu/100mL),-0.08473988520362033,0.08473988520362033,Very Weak
+7,Dissolved Oxygen (mg/L),Turbidity (NTU),-0.04869851710734593,0.04869851710734593,Very Weak
+7,Dissolved Oxygen (mg/L),pH,0.24538150449200094,0.24538150449200094,Weak
+7,Dissolved Oxygen (mg/L),Temperature (°C),-0.321938782163772,0.321938782163772,Weak
+7,Dissolved Oxygen (mg/L),Salinity (psu),0.03423815826592199,0.03423815826592199,Very Weak
+7,E. coli (cfu/100mL),Turbidity (NTU),-0.002622190253047199,0.002622190253047199,Very Weak
+7,E. coli (cfu/100mL),pH,-0.0450280211639069,0.0450280211639069,Very Weak
+7,E. coli (cfu/100mL),Temperature (°C),-0.009913924950640229,0.009913924950640229,Very Weak
+7,E. coli (cfu/100mL),Salinity (psu),0.03198241708637191,0.03198241708637191,Very Weak
+7,Turbidity (NTU),pH,-0.050261947999334124,0.050261947999334124,Very Weak
+7,Turbidity (NTU),Temperature (°C),-0.01263212159939137,0.01263212159939137,Very Weak
+7,Turbidity (NTU),Salinity (psu),-0.029557220156144523,0.029557220156144523,Very Weak
+7,pH,Temperature (°C),0.005240799316726836,0.005240799316726836,Very Weak
+7,pH,Salinity (psu),0.010648151524695885,0.010648151524695885,Very Weak
+7,Temperature (°C),Salinity (psu),-0.6517132358712863,0.6517132358712863,Strong
+8,5-day Biochemical Oxygen Demand (mg/L),Suspended Solids (mg/L),-0.08423060805626667,0.08423060805626667,Very Weak
+8,5-day Biochemical Oxygen Demand (mg/L),Total Phosphorus (mg/L),-0.05177570372893931,0.05177570372893931,Very Weak
+8,5-day Biochemical Oxygen Demand (mg/L),Total Nitrogen (mg/L),0.08377594243989735,0.08377594243989735,Very Weak
+8,5-day Biochemical Oxygen Demand (mg/L),Ammonia Nitrogen (mg/L),-0.05322239581538627,0.05322239581538627,Very Weak
+8,5-day Biochemical Oxygen Demand (mg/L),Orthophosphate Phosphorus (mg/L),-0.2352888277704007,0.2352888277704007,Weak
+8,5-day Biochemical Oxygen Demand (mg/L),Total Inorganic Nitrogen (mg/L),0.14556373571821152,0.14556373571821152,Very Weak
+8,5-day Biochemical Oxygen Demand (mg/L),Chlorophyll-a (μg/L),0.5823566429158225,0.5823566429158225,Moderate
+8,5-day Biochemical Oxygen Demand (mg/L),Dissolved Oxygen (%saturation),0.3238028255527891,0.3238028255527891,Weak
+8,5-day Biochemical Oxygen Demand (mg/L),Dissolved Oxygen (mg/L),0.27267985446279114,0.27267985446279114,Weak
+8,5-day Biochemical Oxygen Demand (mg/L),E. coli (cfu/100mL),0.07578350302948506,0.07578350302948506,Very Weak
+8,5-day Biochemical Oxygen Demand (mg/L),Turbidity (NTU),-0.04831583850712283,0.04831583850712283,Very Weak
+8,5-day Biochemical Oxygen Demand (mg/L),pH,0.1093661433817829,0.1093661433817829,Very Weak
+8,5-day Biochemical Oxygen Demand (mg/L),Temperature (°C),0.11052278467519282,0.11052278467519282,Very Weak
+8,5-day Biochemical Oxygen Demand (mg/L),Salinity (psu),-0.33593165585538143,0.33593165585538143,Weak
+8,Suspended Solids (mg/L),Total Phosphorus (mg/L),0.1250062415240647,0.1250062415240647,Very Weak
+8,Suspended Solids (mg/L),Total Nitrogen (mg/L),0.027291019304689614,0.027291019304689614,Very Weak
+8,Suspended Solids (mg/L),Ammonia Nitrogen (mg/L),0.04402730145902228,0.04402730145902228,Very Weak
+8,Suspended Solids (mg/L),Orthophosphate Phosphorus (mg/L),0.12423376074744256,0.12423376074744256,Very Weak
+8,Suspended Solids (mg/L),Total Inorganic Nitrogen (mg/L),-0.08771030140562648,0.08771030140562648,Very Weak
+8,Suspended Solids (mg/L),Chlorophyll-a (μg/L),-0.05086194123577676,0.05086194123577676,Very Weak
+8,Suspended Solids (mg/L),Dissolved Oxygen (%saturation),-0.05577067618085502,0.05577067618085502,Very Weak
+8,Suspended Solids (mg/L),Dissolved Oxygen (mg/L),-0.05097836801213755,0.05097836801213755,Very Weak
+8,Suspended Solids (mg/L),E. coli (cfu/100mL),0.011798803036931546,0.011798803036931546,Very Weak
+8,Suspended Solids (mg/L),Turbidity (NTU),0.10599029609541691,0.10599029609541691,Very Weak
+8,Suspended Solids (mg/L),pH,0.007731577691702164,0.007731577691702164,Very Weak
+8,Suspended Solids (mg/L),Temperature (°C),-0.028445860781839555,0.028445860781839555,Very Weak
+8,Suspended Solids (mg/L),Salinity (psu),0.11152001413067525,0.11152001413067525,Very Weak
+8,Total Phosphorus (mg/L),Total Nitrogen (mg/L),0.18107140850897313,0.18107140850897313,Very Weak
+8,Total Phosphorus (mg/L),Ammonia Nitrogen (mg/L),0.14985058111607552,0.14985058111607552,Very Weak
+8,Total Phosphorus (mg/L),Orthophosphate Phosphorus (mg/L),0.27846157590931936,0.27846157590931936,Weak
+8,Total Phosphorus (mg/L),Total Inorganic Nitrogen (mg/L),0.04551606164341373,0.04551606164341373,Very Weak
+8,Total Phosphorus (mg/L),Chlorophyll-a (μg/L),-0.10226155827345347,0.10226155827345347,Very Weak
+8,Total Phosphorus (mg/L),Dissolved Oxygen (%saturation),-0.001124328381238686,0.001124328381238686,Very Weak
+8,Total Phosphorus (mg/L),Dissolved Oxygen (mg/L),0.0113658228939149,0.0113658228939149,Very Weak
+8,Total Phosphorus (mg/L),E. coli (cfu/100mL),0.011173214793766702,0.011173214793766702,Very Weak
+8,Total Phosphorus (mg/L),Turbidity (NTU),-0.02729006659264712,0.02729006659264712,Very Weak
+8,Total Phosphorus (mg/L),pH,0.0014351710435448748,0.0014351710435448748,Very Weak
+8,Total Phosphorus (mg/L),Temperature (°C),-0.006406968840043338,0.006406968840043338,Very Weak
+8,Total Phosphorus (mg/L),Salinity (psu),0.007656919641429764,0.007656919641429764,Very Weak
+8,Total Nitrogen (mg/L),Ammonia Nitrogen (mg/L),0.14916580002270852,0.14916580002270852,Very Weak
+8,Total Nitrogen (mg/L),Orthophosphate Phosphorus (mg/L),0.19426991026021168,0.19426991026021168,Very Weak
+8,Total Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.5140906154920187,0.5140906154920187,Moderate
+8,Total Nitrogen (mg/L),Chlorophyll-a (μg/L),0.14937736763680143,0.14937736763680143,Very Weak
+8,Total Nitrogen (mg/L),Dissolved Oxygen (%saturation),-0.027254156605408645,0.027254156605408645,Very Weak
+8,Total Nitrogen (mg/L),Dissolved Oxygen (mg/L),-0.055493183416212254,0.055493183416212254,Very Weak
+8,Total Nitrogen (mg/L),E. coli (cfu/100mL),0.014690857525889984,0.014690857525889984,Very Weak
+8,Total Nitrogen (mg/L),Turbidity (NTU),-0.017802288630706223,0.017802288630706223,Very Weak
+8,Total Nitrogen (mg/L),pH,-0.12380240415076477,0.12380240415076477,Very Weak
+8,Total Nitrogen (mg/L),Temperature (°C),0.16685350723800474,0.16685350723800474,Very Weak
+8,Total Nitrogen (mg/L),Salinity (psu),-0.3803702722555779,0.3803702722555779,Weak
+8,Ammonia Nitrogen (mg/L),Orthophosphate Phosphorus (mg/L),0.46173854338705744,0.46173854338705744,Moderate
+8,Ammonia Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.23091892358593266,0.23091892358593266,Weak
+8,Ammonia Nitrogen (mg/L),Chlorophyll-a (μg/L),-0.29003438981803065,0.29003438981803065,Weak
+8,Ammonia Nitrogen (mg/L),Dissolved Oxygen (%saturation),-0.16165525319351978,0.16165525319351978,Very Weak
+8,Ammonia Nitrogen (mg/L),Dissolved Oxygen (mg/L),-0.04636815102764891,0.04636815102764891,Very Weak
+8,Ammonia Nitrogen (mg/L),E. coli (cfu/100mL),0.37255952525498104,0.37255952525498104,Weak
+8,Ammonia Nitrogen (mg/L),Turbidity (NTU),-0.0037880776210739166,0.0037880776210739166,Very Weak
+8,Ammonia Nitrogen (mg/L),pH,-0.1369544542221311,0.1369544542221311,Very Weak
+8,Ammonia Nitrogen (mg/L),Temperature (°C),-0.33520053814103373,0.33520053814103373,Weak
+8,Ammonia Nitrogen (mg/L),Salinity (psu),0.28579537880245987,0.28579537880245987,Weak
+8,Orthophosphate Phosphorus (mg/L),Total Inorganic Nitrogen (mg/L),0.17268114771658016,0.17268114771658016,Very Weak
+8,Orthophosphate Phosphorus (mg/L),Chlorophyll-a (μg/L),-0.36332461137262634,0.36332461137262634,Weak
+8,Orthophosphate Phosphorus (mg/L),Dissolved Oxygen (%saturation),-0.2388690171173055,0.2388690171173055,Weak
+8,Orthophosphate Phosphorus (mg/L),Dissolved Oxygen (mg/L),-0.14643496761297273,0.14643496761297273,Very Weak
+8,Orthophosphate Phosphorus (mg/L),E. coli (cfu/100mL),0.1703242765924205,0.1703242765924205,Very Weak
+8,Orthophosphate Phosphorus (mg/L),Turbidity (NTU),0.03418430587809438,0.03418430587809438,Very Weak
+8,Orthophosphate Phosphorus (mg/L),pH,-0.0014766319478218633,0.0014766319478218633,Very Weak
+8,Orthophosphate Phosphorus (mg/L),Temperature (°C),-0.17809065601880752,0.17809065601880752,Very Weak
+8,Orthophosphate Phosphorus (mg/L),Salinity (psu),0.15076550488175636,0.15076550488175636,Very Weak
+8,Total Inorganic Nitrogen (mg/L),Chlorophyll-a (μg/L),0.18700654129396652,0.18700654129396652,Very Weak
+8,Total Inorganic Nitrogen (mg/L),Dissolved Oxygen (%saturation),-0.10352430370826743,0.10352430370826743,Very Weak
+8,Total Inorganic Nitrogen (mg/L),Dissolved Oxygen (mg/L),-0.14564984087594648,0.14564984087594648,Very Weak
+8,Total Inorganic Nitrogen (mg/L),E. coli (cfu/100mL),0.10050149068877437,0.10050149068877437,Very Weak
+8,Total Inorganic Nitrogen (mg/L),Turbidity (NTU),0.05810148456120852,0.05810148456120852,Very Weak
+8,Total Inorganic Nitrogen (mg/L),pH,-0.05766149627297372,0.05766149627297372,Very Weak
+8,Total Inorganic Nitrogen (mg/L),Temperature (°C),0.3066096035580607,0.3066096035580607,Weak
+8,Total Inorganic Nitrogen (mg/L),Salinity (psu),-0.6246382387434535,0.6246382387434535,Strong
+8,Chlorophyll-a (μg/L),Dissolved Oxygen (%saturation),0.3777949502801874,0.3777949502801874,Weak
+8,Chlorophyll-a (μg/L),Dissolved Oxygen (mg/L),0.2529185713373548,0.2529185713373548,Weak
+8,Chlorophyll-a (μg/L),E. coli (cfu/100mL),-0.05410484821788515,0.05410484821788515,Very Weak
+8,Chlorophyll-a (μg/L),Turbidity (NTU),-0.011535134576363171,0.011535134576363171,Very Weak
+8,Chlorophyll-a (μg/L),pH,0.1490132567234938,0.1490132567234938,Very Weak
+8,Chlorophyll-a (μg/L),Temperature (°C),0.3119814768541366,0.3119814768541366,Weak
+8,Chlorophyll-a (μg/L),Salinity (psu),-0.4891367451362578,0.4891367451362578,Moderate
+8,Dissolved Oxygen (%saturation),Dissolved Oxygen (mg/L),0.9265713473434266,0.9265713473434266,Very Strong
+8,Dissolved Oxygen (%saturation),E. coli (cfu/100mL),-0.0978359782570375,0.0978359782570375,Very Weak
+8,Dissolved Oxygen (%saturation),Turbidity (NTU),0.016538801741161138,0.016538801741161138,Very Weak
+8,Dissolved Oxygen (%saturation),pH,0.12716950915367614,0.12716950915367614,Very Weak
+8,Dissolved Oxygen (%saturation),Temperature (°C),-0.07731366750118053,0.07731366750118053,Very Weak
+8,Dissolved Oxygen (%saturation),Salinity (psu),-0.14210529356776616,0.14210529356776616,Very Weak
+8,Dissolved Oxygen (mg/L),E. coli (cfu/100mL),-0.07003655989950634,0.07003655989950634,Very Weak
+8,Dissolved Oxygen (mg/L),Turbidity (NTU),-0.011072694609848699,0.011072694609848699,Very Weak
+8,Dissolved Oxygen (mg/L),pH,0.11140094578982387,0.11140094578982387,Very Weak
+8,Dissolved Oxygen (mg/L),Temperature (°C),-0.4021310599502389,0.4021310599502389,Moderate
+8,Dissolved Oxygen (mg/L),Salinity (psu),-0.0300099588135852,0.0300099588135852,Very Weak
+8,E. coli (cfu/100mL),Turbidity (NTU),0.052167040370028575,0.052167040370028575,Very Weak
+8,E. coli (cfu/100mL),pH,-0.01527205368610061,0.01527205368610061,Very Weak
+8,E. coli (cfu/100mL),Temperature (°C),-0.06373736854585728,0.06373736854585728,Very Weak
+8,E. coli (cfu/100mL),Salinity (psu),0.06262393256592398,0.06262393256592398,Very Weak
+8,Turbidity (NTU),pH,-0.08943626787899568,0.08943626787899568,Very Weak
+8,Turbidity (NTU),Temperature (°C),0.0584904527316262,0.0584904527316262,Very Weak
+8,Turbidity (NTU),Salinity (psu),-0.011975219044790382,0.011975219044790382,Very Weak
+8,pH,Temperature (°C),0.051863758952232074,0.051863758952232074,Very Weak
+8,pH,Salinity (psu),-0.14226986031175198,0.14226986031175198,Very Weak
+8,Temperature (°C),Salinity (psu),-0.514104943045715,0.514104943045715,Moderate
+9,5-day Biochemical Oxygen Demand (mg/L),Suspended Solids (mg/L),0.1649468052669903,0.1649468052669903,Very Weak
+9,5-day Biochemical Oxygen Demand (mg/L),Total Phosphorus (mg/L),0.1874782175610254,0.1874782175610254,Very Weak
+9,5-day Biochemical Oxygen Demand (mg/L),Total Nitrogen (mg/L),0.17517187580146354,0.17517187580146354,Very Weak
+9,5-day Biochemical Oxygen Demand (mg/L),Ammonia Nitrogen (mg/L),0.23309202014593602,0.23309202014593602,Weak
+9,5-day Biochemical Oxygen Demand (mg/L),Orthophosphate Phosphorus (mg/L),0.15780100744597023,0.15780100744597023,Very Weak
+9,5-day Biochemical Oxygen Demand (mg/L),Total Inorganic Nitrogen (mg/L),0.24055055422521668,0.24055055422521668,Weak
+9,5-day Biochemical Oxygen Demand (mg/L),Chlorophyll-a (μg/L),0.5210262114367962,0.5210262114367962,Moderate
+9,5-day Biochemical Oxygen Demand (mg/L),Dissolved Oxygen (%saturation),0.2162403613683423,0.2162403613683423,Weak
+9,5-day Biochemical Oxygen Demand (mg/L),Dissolved Oxygen (mg/L),0.12396431846076199,0.12396431846076199,Very Weak
+9,5-day Biochemical Oxygen Demand (mg/L),E. coli (cfu/100mL),0.31538669423208093,0.31538669423208093,Weak
+9,5-day Biochemical Oxygen Demand (mg/L),Turbidity (NTU),0.0069016919501132985,0.0069016919501132985,Very Weak
+9,5-day Biochemical Oxygen Demand (mg/L),pH,0.1654678693111127,0.1654678693111127,Very Weak
+9,5-day Biochemical Oxygen Demand (mg/L),Temperature (°C),0.23641153743651463,0.23641153743651463,Weak
+9,5-day Biochemical Oxygen Demand (mg/L),Salinity (psu),-0.26365318249479147,0.26365318249479147,Weak
+9,Suspended Solids (mg/L),Total Phosphorus (mg/L),0.13973110408778452,0.13973110408778452,Very Weak
+9,Suspended Solids (mg/L),Total Nitrogen (mg/L),0.08745530056435365,0.08745530056435365,Very Weak
+9,Suspended Solids (mg/L),Ammonia Nitrogen (mg/L),0.05161255047001119,0.05161255047001119,Very Weak
+9,Suspended Solids (mg/L),Orthophosphate Phosphorus (mg/L),0.02506010750229933,0.02506010750229933,Very Weak
+9,Suspended Solids (mg/L),Total Inorganic Nitrogen (mg/L),0.028847346425149297,0.028847346425149297,Very Weak
+9,Suspended Solids (mg/L),Chlorophyll-a (μg/L),0.145933086295386,0.145933086295386,Very Weak
+9,Suspended Solids (mg/L),Dissolved Oxygen (%saturation),-0.008992688328257812,0.008992688328257812,Very Weak
+9,Suspended Solids (mg/L),Dissolved Oxygen (mg/L),-0.054006437020599006,0.054006437020599006,Very Weak
+9,Suspended Solids (mg/L),E. coli (cfu/100mL),0.11040130748634566,0.11040130748634566,Very Weak
+9,Suspended Solids (mg/L),Turbidity (NTU),-0.03333008114235816,0.03333008114235816,Very Weak
+9,Suspended Solids (mg/L),pH,-0.015821299004510472,0.015821299004510472,Very Weak
+9,Suspended Solids (mg/L),Temperature (°C),0.1294565330336976,0.1294565330336976,Very Weak
+9,Suspended Solids (mg/L),Salinity (psu),-0.0021176730508732874,0.0021176730508732874,Very Weak
+9,Total Phosphorus (mg/L),Total Nitrogen (mg/L),0.44317073003177715,0.44317073003177715,Moderate
+9,Total Phosphorus (mg/L),Ammonia Nitrogen (mg/L),0.616228103072067,0.616228103072067,Strong
+9,Total Phosphorus (mg/L),Orthophosphate Phosphorus (mg/L),0.6253165766886768,0.6253165766886768,Strong
+9,Total Phosphorus (mg/L),Total Inorganic Nitrogen (mg/L),0.500082553195516,0.500082553195516,Moderate
+9,Total Phosphorus (mg/L),Chlorophyll-a (μg/L),-0.03159624830694366,0.03159624830694366,Very Weak
+9,Total Phosphorus (mg/L),Dissolved Oxygen (%saturation),-0.09318828566018729,0.09318828566018729,Very Weak
+9,Total Phosphorus (mg/L),Dissolved Oxygen (mg/L),-0.06383446379739441,0.06383446379739441,Very Weak
+9,Total Phosphorus (mg/L),E. coli (cfu/100mL),0.4503492321819377,0.4503492321819377,Moderate
+9,Total Phosphorus (mg/L),Turbidity (NTU),-0.0771048410918971,0.0771048410918971,Very Weak
+9,Total Phosphorus (mg/L),pH,-0.05468161935952645,0.05468161935952645,Very Weak
+9,Total Phosphorus (mg/L),Temperature (°C),-0.014653896402850326,0.014653896402850326,Very Weak
+9,Total Phosphorus (mg/L),Salinity (psu),-0.0219213527476056,0.0219213527476056,Very Weak
+9,Total Nitrogen (mg/L),Ammonia Nitrogen (mg/L),0.5568950916922248,0.5568950916922248,Moderate
+9,Total Nitrogen (mg/L),Orthophosphate Phosphorus (mg/L),0.5078656955648672,0.5078656955648672,Moderate
+9,Total Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.5922115022182346,0.5922115022182346,Moderate
+9,Total Nitrogen (mg/L),Chlorophyll-a (μg/L),0.06577149555340736,0.06577149555340736,Very Weak
+9,Total Nitrogen (mg/L),Dissolved Oxygen (%saturation),-0.15759337704714937,0.15759337704714937,Very Weak
+9,Total Nitrogen (mg/L),Dissolved Oxygen (mg/L),-0.14460663354038483,0.14460663354038483,Very Weak
+9,Total Nitrogen (mg/L),E. coli (cfu/100mL),0.35593839288909596,0.35593839288909596,Weak
+9,Total Nitrogen (mg/L),Turbidity (NTU),-0.09522889225526993,0.09522889225526993,Very Weak
+9,Total Nitrogen (mg/L),pH,-0.07671288463708469,0.07671288463708469,Very Weak
+9,Total Nitrogen (mg/L),Temperature (°C),0.07107845422284767,0.07107845422284767,Very Weak
+9,Total Nitrogen (mg/L),Salinity (psu),-0.25465080642093874,0.25465080642093874,Weak
+9,Ammonia Nitrogen (mg/L),Orthophosphate Phosphorus (mg/L),0.818586029592266,0.818586029592266,Very Strong
+9,Ammonia Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.7189736226308558,0.7189736226308558,Strong
+9,Ammonia Nitrogen (mg/L),Chlorophyll-a (μg/L),-0.11331731844018901,0.11331731844018901,Very Weak
+9,Ammonia Nitrogen (mg/L),Dissolved Oxygen (%saturation),-0.27890409810426053,0.27890409810426053,Weak
+9,Ammonia Nitrogen (mg/L),Dissolved Oxygen (mg/L),-0.2594224439721812,0.2594224439721812,Weak
+9,Ammonia Nitrogen (mg/L),E. coli (cfu/100mL),0.6381953018195777,0.6381953018195777,Strong
+9,Ammonia Nitrogen (mg/L),Turbidity (NTU),-0.0494437472013926,0.0494437472013926,Very Weak
+9,Ammonia Nitrogen (mg/L),pH,-0.01558511458005832,0.01558511458005832,Very Weak
+9,Ammonia Nitrogen (mg/L),Temperature (°C),0.039550080259345914,0.039550080259345914,Very Weak
+9,Ammonia Nitrogen (mg/L),Salinity (psu),-0.029482517226213385,0.029482517226213385,Very Weak
+9,Orthophosphate Phosphorus (mg/L),Total Inorganic Nitrogen (mg/L),0.6414352030707001,0.6414352030707001,Strong
+9,Orthophosphate Phosphorus (mg/L),Chlorophyll-a (μg/L),-0.20561683205788575,0.20561683205788575,Weak
+9,Orthophosphate Phosphorus (mg/L),Dissolved Oxygen (%saturation),-0.31371249650515015,0.31371249650515015,Weak
+9,Orthophosphate Phosphorus (mg/L),Dissolved Oxygen (mg/L),-0.24597395512319192,0.24597395512319192,Weak
+9,Orthophosphate Phosphorus (mg/L),E. coli (cfu/100mL),0.6022236302868543,0.6022236302868543,Strong
+9,Orthophosphate Phosphorus (mg/L),Turbidity (NTU),-0.05772908927140832,0.05772908927140832,Very Weak
+9,Orthophosphate Phosphorus (mg/L),pH,-0.025999812680912334,0.025999812680912334,Very Weak
+9,Orthophosphate Phosphorus (mg/L),Temperature (°C),-0.08480380633682477,0.08480380633682477,Very Weak
+9,Orthophosphate Phosphorus (mg/L),Salinity (psu),0.0754719763629604,0.0754719763629604,Very Weak
+9,Total Inorganic Nitrogen (mg/L),Chlorophyll-a (μg/L),0.05852599543418908,0.05852599543418908,Very Weak
+9,Total Inorganic Nitrogen (mg/L),Dissolved Oxygen (%saturation),-0.23631923071104252,0.23631923071104252,Weak
+9,Total Inorganic Nitrogen (mg/L),Dissolved Oxygen (mg/L),-0.23096708894225781,0.23096708894225781,Weak
+9,Total Inorganic Nitrogen (mg/L),E. coli (cfu/100mL),0.464883838212407,0.464883838212407,Moderate
+9,Total Inorganic Nitrogen (mg/L),Turbidity (NTU),-0.01728730722746046,0.01728730722746046,Very Weak
+9,Total Inorganic Nitrogen (mg/L),pH,-0.09786913067154339,0.09786913067154339,Very Weak
+9,Total Inorganic Nitrogen (mg/L),Temperature (°C),0.15364872252787892,0.15364872252787892,Very Weak
+9,Total Inorganic Nitrogen (mg/L),Salinity (psu),-0.4226079544074578,0.4226079544074578,Moderate
+9,Chlorophyll-a (μg/L),Dissolved Oxygen (%saturation),0.24129345349766618,0.24129345349766618,Weak
+9,Chlorophyll-a (μg/L),Dissolved Oxygen (mg/L),0.10725611304275587,0.10725611304275587,Very Weak
+9,Chlorophyll-a (μg/L),E. coli (cfu/100mL),-0.04535218217070175,0.04535218217070175,Very Weak
+9,Chlorophyll-a (μg/L),Turbidity (NTU),0.026529489503362248,0.026529489503362248,Very Weak
+9,Chlorophyll-a (μg/L),pH,0.1755643232719714,0.1755643232719714,Very Weak
+9,Chlorophyll-a (μg/L),Temperature (°C),0.3302074593476462,0.3302074593476462,Weak
+9,Chlorophyll-a (μg/L),Salinity (psu),-0.38682501236657973,0.38682501236657973,Weak
+9,Dissolved Oxygen (%saturation),Dissolved Oxygen (mg/L),0.924173246827364,0.924173246827364,Very Strong
+9,Dissolved Oxygen (%saturation),E. coli (cfu/100mL),-0.0973543394573642,0.0973543394573642,Very Weak
+9,Dissolved Oxygen (%saturation),Turbidity (NTU),0.00505956332227417,0.00505956332227417,Very Weak
+9,Dissolved Oxygen (%saturation),pH,0.1266179876915293,0.1266179876915293,Very Weak
+9,Dissolved Oxygen (%saturation),Temperature (°C),-0.0760548136828246,0.0760548136828246,Very Weak
+9,Dissolved Oxygen (%saturation),Salinity (psu),-0.03385365846374596,0.03385365846374596,Very Weak
+9,Dissolved Oxygen (mg/L),E. coli (cfu/100mL),-0.07831692771455395,0.07831692771455395,Very Weak
+9,Dissolved Oxygen (mg/L),Turbidity (NTU),-0.05041050978438111,0.05041050978438111,Very Weak
+9,Dissolved Oxygen (mg/L),pH,0.1214158346269518,0.1214158346269518,Very Weak
+9,Dissolved Oxygen (mg/L),Temperature (°C),-0.4129206297114155,0.4129206297114155,Moderate
+9,Dissolved Oxygen (mg/L),Salinity (psu),0.04956505586924723,0.04956505586924723,Very Weak
+9,E. coli (cfu/100mL),Turbidity (NTU),-0.019451084470932856,0.019451084470932856,Very Weak
+9,E. coli (cfu/100mL),pH,-0.018963668465871608,0.018963668465871608,Very Weak
+9,E. coli (cfu/100mL),Temperature (°C),-0.01803680400923652,0.01803680400923652,Very Weak
+9,E. coli (cfu/100mL),Salinity (psu),-0.007737609883898313,0.007737609883898313,Very Weak
+9,Turbidity (NTU),pH,-0.031097012618934473,0.031097012618934473,Very Weak
+9,Turbidity (NTU),Temperature (°C),0.14299377119782933,0.14299377119782933,Very Weak
+9,Turbidity (NTU),Salinity (psu),-0.05030346979140472,0.05030346979140472,Very Weak
+9,pH,Temperature (°C),0.05240031870102565,0.05240031870102565,Very Weak
+9,pH,Salinity (psu),-0.16102337767909924,0.16102337767909924,Very Weak
+9,Temperature (°C),Salinity (psu),-0.3991508460467057,0.3991508460467057,Weak
+10,5-day Biochemical Oxygen Demand (mg/L),Suspended Solids (mg/L),-0.02722672563387389,0.02722672563387389,Very Weak
+10,5-day Biochemical Oxygen Demand (mg/L),Total Phosphorus (mg/L),0.13657240164143356,0.13657240164143356,Very Weak
+10,5-day Biochemical Oxygen Demand (mg/L),Total Nitrogen (mg/L),0.21063451726818477,0.21063451726818477,Weak
+10,5-day Biochemical Oxygen Demand (mg/L),Ammonia Nitrogen (mg/L),0.11419642219666051,0.11419642219666051,Very Weak
+10,5-day Biochemical Oxygen Demand (mg/L),Orthophosphate Phosphorus (mg/L),0.09896325658384163,0.09896325658384163,Very Weak
+10,5-day Biochemical Oxygen Demand (mg/L),Total Inorganic Nitrogen (mg/L),0.14468467224545825,0.14468467224545825,Very Weak
+10,5-day Biochemical Oxygen Demand (mg/L),Chlorophyll-a (μg/L),0.5027033941098122,0.5027033941098122,Moderate
+10,5-day Biochemical Oxygen Demand (mg/L),Dissolved Oxygen (%saturation),0.1913265653094245,0.1913265653094245,Very Weak
+10,5-day Biochemical Oxygen Demand (mg/L),Dissolved Oxygen (mg/L),0.15728103715256284,0.15728103715256284,Very Weak
+10,5-day Biochemical Oxygen Demand (mg/L),E. coli (cfu/100mL),0.21718109504030988,0.21718109504030988,Weak
+10,5-day Biochemical Oxygen Demand (mg/L),Turbidity (NTU),-0.04176166133706182,0.04176166133706182,Very Weak
+10,5-day Biochemical Oxygen Demand (mg/L),pH,0.20769352735347804,0.20769352735347804,Weak
+10,5-day Biochemical Oxygen Demand (mg/L),Temperature (°C),0.10537396868924771,0.10537396868924771,Very Weak
+10,5-day Biochemical Oxygen Demand (mg/L),Salinity (psu),-0.27895707314175494,0.27895707314175494,Weak
+10,Suspended Solids (mg/L),Total Phosphorus (mg/L),0.08049499069719615,0.08049499069719615,Very Weak
+10,Suspended Solids (mg/L),Total Nitrogen (mg/L),0.017112850649837027,0.017112850649837027,Very Weak
+10,Suspended Solids (mg/L),Ammonia Nitrogen (mg/L),0.07878092232218822,0.07878092232218822,Very Weak
+10,Suspended Solids (mg/L),Orthophosphate Phosphorus (mg/L),0.008592837891445302,0.008592837891445302,Very Weak
+10,Suspended Solids (mg/L),Total Inorganic Nitrogen (mg/L),-0.03459939583421564,0.03459939583421564,Very Weak
+10,Suspended Solids (mg/L),Chlorophyll-a (μg/L),-0.03094190492416571,0.03094190492416571,Very Weak
+10,Suspended Solids (mg/L),Dissolved Oxygen (%saturation),-0.05191068415750114,0.05191068415750114,Very Weak
+10,Suspended Solids (mg/L),Dissolved Oxygen (mg/L),-0.0424345685032995,0.0424345685032995,Very Weak
+10,Suspended Solids (mg/L),E. coli (cfu/100mL),0.005443046264653795,0.005443046264653795,Very Weak
+10,Suspended Solids (mg/L),Turbidity (NTU),0.1434211465896996,0.1434211465896996,Very Weak
+10,Suspended Solids (mg/L),pH,-0.011780191800797478,0.011780191800797478,Very Weak
+10,Suspended Solids (mg/L),Temperature (°C),-0.025989370088182268,0.025989370088182268,Very Weak
+10,Suspended Solids (mg/L),Salinity (psu),0.10281580954565481,0.10281580954565481,Very Weak
+10,Total Phosphorus (mg/L),Total Nitrogen (mg/L),0.6957809921721491,0.6957809921721491,Strong
+10,Total Phosphorus (mg/L),Ammonia Nitrogen (mg/L),0.6106944512583188,0.6106944512583188,Strong
+10,Total Phosphorus (mg/L),Orthophosphate Phosphorus (mg/L),0.852252410724205,0.852252410724205,Very Strong
+10,Total Phosphorus (mg/L),Total Inorganic Nitrogen (mg/L),0.7208256784386446,0.7208256784386446,Strong
+10,Total Phosphorus (mg/L),Chlorophyll-a (μg/L),-0.026438206801214403,0.026438206801214403,Very Weak
+10,Total Phosphorus (mg/L),Dissolved Oxygen (%saturation),-0.13911102620095495,0.13911102620095495,Very Weak
+10,Total Phosphorus (mg/L),Dissolved Oxygen (mg/L),-0.10455251063938185,0.10455251063938185,Very Weak
+10,Total Phosphorus (mg/L),E. coli (cfu/100mL),0.2159487566790542,0.2159487566790542,Weak
+10,Total Phosphorus (mg/L),Turbidity (NTU),-0.027171153766750077,0.027171153766750077,Very Weak
+10,Total Phosphorus (mg/L),pH,-0.10659581024704794,0.10659581024704794,Very Weak
+10,Total Phosphorus (mg/L),Temperature (°C),-0.05160308806484174,0.05160308806484174,Very Weak
+10,Total Phosphorus (mg/L),Salinity (psu),-0.06643277740852935,0.06643277740852935,Very Weak
+10,Total Nitrogen (mg/L),Ammonia Nitrogen (mg/L),0.694152838454923,0.694152838454923,Strong
+10,Total Nitrogen (mg/L),Orthophosphate Phosphorus (mg/L),0.7393263164315137,0.7393263164315137,Strong
+10,Total Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.8491268067047147,0.8491268067047147,Very Strong
+10,Total Nitrogen (mg/L),Chlorophyll-a (μg/L),0.06575139570081116,0.06575139570081116,Very Weak
+10,Total Nitrogen (mg/L),Dissolved Oxygen (%saturation),-0.09795229997465646,0.09795229997465646,Very Weak
+10,Total Nitrogen (mg/L),Dissolved Oxygen (mg/L),-0.07868491984797947,0.07868491984797947,Very Weak
+10,Total Nitrogen (mg/L),E. coli (cfu/100mL),0.26582325748241453,0.26582325748241453,Weak
+10,Total Nitrogen (mg/L),Turbidity (NTU),-0.035151181154501394,0.035151181154501394,Very Weak
+10,Total Nitrogen (mg/L),pH,-0.12736079251445073,0.12736079251445073,Very Weak
+10,Total Nitrogen (mg/L),Temperature (°C),0.01883701413784519,0.01883701413784519,Very Weak
+10,Total Nitrogen (mg/L),Salinity (psu),-0.25933128225811497,0.25933128225811497,Weak
+10,Ammonia Nitrogen (mg/L),Orthophosphate Phosphorus (mg/L),0.632429480542745,0.632429480542745,Strong
+10,Ammonia Nitrogen (mg/L),Total Inorganic Nitrogen (mg/L),0.719754414251675,0.719754414251675,Strong
+10,Ammonia Nitrogen (mg/L),Chlorophyll-a (μg/L),-0.14820882384476194,0.14820882384476194,Very Weak
+10,Ammonia Nitrogen (mg/L),Dissolved Oxygen (%saturation),-0.2834532077401617,0.2834532077401617,Weak
+10,Ammonia Nitrogen (mg/L),Dissolved Oxygen (mg/L),-0.22484361367330782,0.22484361367330782,Weak
+10,Ammonia Nitrogen (mg/L),E. coli (cfu/100mL),0.33023462272535625,0.33023462272535625,Weak
+10,Ammonia Nitrogen (mg/L),Turbidity (NTU),0.006147675084325926,0.006147675084325926,Very Weak
+10,Ammonia Nitrogen (mg/L),pH,-0.15094731873009498,0.15094731873009498,Very Weak
+10,Ammonia Nitrogen (mg/L),Temperature (°C),-0.1292134775237664,0.1292134775237664,Very Weak
+10,Ammonia Nitrogen (mg/L),Salinity (psu),0.06866523543062816,0.06866523543062816,Very Weak
+10,Orthophosphate Phosphorus (mg/L),Total Inorganic Nitrogen (mg/L),0.8207228076561544,0.8207228076561544,Very Strong
+10,Orthophosphate Phosphorus (mg/L),Chlorophyll-a (μg/L),-0.06386383372950079,0.06386383372950079,Very Weak
+10,Orthophosphate Phosphorus (mg/L),Dissolved Oxygen (%saturation),-0.16433204433019935,0.16433204433019935,Very Weak
+10,Orthophosphate Phosphorus (mg/L),Dissolved Oxygen (mg/L),-0.123294160372152,0.123294160372152,Very Weak
+10,Orthophosphate Phosphorus (mg/L),E. coli (cfu/100mL),0.20893067147806857,0.20893067147806857,Weak
+10,Orthophosphate Phosphorus (mg/L),Turbidity (NTU),-0.02620080751026023,0.02620080751026023,Very Weak
+10,Orthophosphate Phosphorus (mg/L),pH,-0.10976979207598479,0.10976979207598479,Very Weak
+10,Orthophosphate Phosphorus (mg/L),Temperature (°C),-0.070942451314058,0.070942451314058,Very Weak
+10,Orthophosphate Phosphorus (mg/L),Salinity (psu),-0.08557319715616736,0.08557319715616736,Very Weak
+10,Total Inorganic Nitrogen (mg/L),Chlorophyll-a (μg/L),0.05122920216543917,0.05122920216543917,Very Weak
+10,Total Inorganic Nitrogen (mg/L),Dissolved Oxygen (%saturation),-0.09726336374976052,0.09726336374976052,Very Weak
+10,Total Inorganic Nitrogen (mg/L),Dissolved Oxygen (mg/L),-0.08756684051786699,0.08756684051786699,Very Weak
+10,Total Inorganic Nitrogen (mg/L),E. coli (cfu/100mL),0.2512529104566245,0.2512529104566245,Weak
+10,Total Inorganic Nitrogen (mg/L),Turbidity (NTU),-0.00501992810331963,0.00501992810331963,Very Weak
+10,Total Inorganic Nitrogen (mg/L),pH,-0.16664066228466487,0.16664066228466487,Very Weak
+10,Total Inorganic Nitrogen (mg/L),Temperature (°C),0.06643175884787383,0.06643175884787383,Very Weak
+10,Total Inorganic Nitrogen (mg/L),Salinity (psu),-0.33489610482944376,0.33489610482944376,Weak
+10,Chlorophyll-a (μg/L),Dissolved Oxygen (%saturation),0.43643395493930465,0.43643395493930465,Moderate
+10,Chlorophyll-a (μg/L),Dissolved Oxygen (mg/L),0.3224345900640668,0.3224345900640668,Weak
+10,Chlorophyll-a (μg/L),E. coli (cfu/100mL),-0.03804395368458974,0.03804395368458974,Very Weak
+10,Chlorophyll-a (μg/L),Turbidity (NTU),-0.013150981529657923,0.013150981529657923,Very Weak
+10,Chlorophyll-a (μg/L),pH,0.2273920791807939,0.2273920791807939,Weak
+10,Chlorophyll-a (μg/L),Temperature (°C),0.32816690716235924,0.32816690716235924,Weak
+10,Chlorophyll-a (μg/L),Salinity (psu),-0.42399169386877145,0.42399169386877145,Moderate
+10,Dissolved Oxygen (%saturation),Dissolved Oxygen (mg/L),0.9476164093813233,0.9476164093813233,Very Strong
+10,Dissolved Oxygen (%saturation),E. coli (cfu/100mL),-0.11465272346963565,0.11465272346963565,Very Weak
+10,Dissolved Oxygen (%saturation),Turbidity (NTU),-0.00010673361869865707,0.00010673361869865707,Very Weak
+10,Dissolved Oxygen (%saturation),pH,0.14071421755926192,0.14071421755926192,Very Weak
+10,Dissolved Oxygen (%saturation),Temperature (°C),0.02385674769540581,0.02385674769540581,Very Weak
+10,Dissolved Oxygen (%saturation),Salinity (psu),-0.24465764042955263,0.24465764042955263,Weak
+10,Dissolved Oxygen (mg/L),E. coli (cfu/100mL),-0.10052540795010358,0.10052540795010358,Very Weak
+10,Dissolved Oxygen (mg/L),Turbidity (NTU),-0.015554115346324964,0.015554115346324964,Very Weak
+10,Dissolved Oxygen (mg/L),pH,0.12573131656426,0.12573131656426,Very Weak
+10,Dissolved Oxygen (mg/L),Temperature (°C),-0.26009014545023784,0.26009014545023784,Weak
+10,Dissolved Oxygen (mg/L),Salinity (psu),-0.1492746795055692,0.1492746795055692,Very Weak
+10,E. coli (cfu/100mL),Turbidity (NTU),0.011710130906529169,0.011710130906529169,Very Weak
+10,E. coli (cfu/100mL),pH,-0.03630087381125323,0.03630087381125323,Very Weak
+10,E. coli (cfu/100mL),Temperature (°C),-0.01600230247715562,0.01600230247715562,Very Weak
+10,E. coli (cfu/100mL),Salinity (psu),-0.03588267679255227,0.03588267679255227,Very Weak
+10,Turbidity (NTU),pH,-0.06333942644419226,0.06333942644419226,Very Weak
+10,Turbidity (NTU),Temperature (°C),0.040596824002611366,0.040596824002611366,Very Weak
+10,Turbidity (NTU),Salinity (psu),0.041955804489890204,0.041955804489890204,Very Weak
+10,pH,Temperature (°C),0.08129666673442572,0.08129666673442572,Very Weak
+10,pH,Salinity (psu),-0.13638762358807824,0.13638762358807824,Very Weak
+10,Temperature (°C),Salinity (psu),-0.4646908998148401,0.4646908998148401,Moderate
