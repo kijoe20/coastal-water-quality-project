@@ -301,7 +301,7 @@ class MultiZoneAnalyzer:
         plt.close()
 
     def plot_monthly_time_series(self, df, zone_num):
-        """Calculate monthly averages and plot time series for each parameter."""
+        """Calculate monthly averages and plot time series for each parameter with rolling mean."""
         available_params = [param for param in KEY_PARAMETERS if param in df.columns]
         
         if not available_params:
@@ -309,6 +309,9 @@ class MultiZoneAnalyzer:
             return
 
         monthly_averages = df[available_params].resample('ME').mean()
+        
+        # Rolling window parameter for trend visualization
+        ROLLING_WINDOW = 6  # 6-month rolling mean for better trend visualization
 
         # Create multi-panel plot
         num_params = len(available_params)
@@ -321,17 +324,28 @@ class MultiZoneAnalyzer:
         axes = axes.flatten()
 
         for i, param in enumerate(available_params):
-            monthly_averages[param].plot(ax=axes[i])
+            # Plot original monthly averages
+            monthly_averages[param].plot(ax=axes[i], label='Monthly Average', 
+                                       alpha=0.7, linewidth=1)
+            
+            # Calculate and plot rolling mean
+            rolling_mean = monthly_averages[param].rolling(window=ROLLING_WINDOW, 
+                                                         min_periods=1, center=True).mean()
+            axes[i].plot(monthly_averages.index, rolling_mean, 
+                        label=f'{ROLLING_WINDOW}-Month Rolling Mean', 
+                        color='red', linewidth=2)
+            
             axes[i].set_title(param, fontsize=10)
             axes[i].set_xlabel('Date')
             axes[i].set_ylabel('Monthly Average')
             axes[i].tick_params(axis='x', rotation=45)
+            axes[i].legend(fontsize=8)
 
         # Hide unused subplots
         for j in range(i + 1, len(axes)):
             axes[j].set_visible(False)
 
-        fig.suptitle(f'Monthly Averages of Water Quality Parameters - Zone {zone_num}', 
+        fig.suptitle(f'Monthly Averages of Water Quality Parameters with Rolling Mean - Zone {zone_num}', 
                     fontsize=16, y=1.02)
         plt.tight_layout()
         
